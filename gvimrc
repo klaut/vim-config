@@ -1,6 +1,6 @@
 color desert
 
-set guifont=Inconsolata:h16            " Font family and font size.
+set guifont=Inconsolata:h14            " Font family and font size.
 set antialias                     " MacVim: smooth fonts.
 set encoding=utf-8                " Use UTF-8 everywhere.
 set guioptions-=T                 " Hide toolbar.
