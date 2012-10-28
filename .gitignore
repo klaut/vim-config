@@ -1,1 +1,5 @@
 .netrwhist
+*.swp
+.DS_Store
+/bundle/.DS_Store
+*/**/.DS_Store
