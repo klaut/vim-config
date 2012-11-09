@@ -1,0 +1,1126 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+:	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^map: <c-_>i or <c-_>I$/;"	m	language:Vim
+<C-G>S	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^  imap      <C-G>S <Plug>ISurround$/;"	m	language:Vim
+<C-G>s	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^  imap      <C-G>s <Plug>Isurround$/;"	m	language:Vim
+<c-r><tab>	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/after/plugin/snipMate.vim	/^ino <silent> <c-r><tab> <c-r>=ShowAvailableSnips()<cr>$/;"	m	language:Vim
+<C-S>	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^    imap    <C-S> <Plug>Isurround$/;"	m	language:Vim
+<C-V>%	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^  imap     <C-V>%      <Plug>ragtagUrlV$/;"	m	language:Vim
+<C-V>&	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^  imap     <C-V>&      <Plug>ragtagXmlV$/;"	m	language:Vim
+<C-X>%	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^  imap     <C-X>%      <Plug>ragtagUrlEncode$/;"	m	language:Vim
+<C-X>&	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^  imap     <C-X>&      <Plug>ragtagXmlEncode$/;"	m	language:Vim
+<C-X>/	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^  imap     <C-X>\/    <\/<Plug>ragtagHtmlComplete$/;"	m	language:Vim
+<C-X><CR>	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^    imap <C-X><CR> <CR><Plug>AlwaysEnd$/;"	m	language:Vim
+<C-X>H	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^  imap     <C-X>H      <Plug>ragtagHtmlComplete$/;"	m	language:Vim
+<CR>	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^    imap <CR>      <CR><Plug>DiscretionaryEnd$/;"	m	language:Vim
+<Leader>be	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^    noremap <script> <silent> <unique> <Leader>be :BufExplorer<CR>$/;"	m	language:Vim
+<Leader>bs	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^    noremap <script> <silent> <unique> <Leader>bs :BufExplorerHorizontalSplit<CR>$/;"	m	language:Vim
+<Leader>bv	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^    noremap <script> <silent> <unique> <Leader>bv :BufExplorerVerticalSplit<CR>$/;"	m	language:Vim
+<Leader>cd	/Users/tanjapislar/.vim/bundle/vim-rooter/plugin/rooter.vim	/^  map <silent> <unique> <Leader>cd <Plug>RooterChangeToRootDirectory$/;"	m	language:Vim
+<Leader>p	/Users/tanjapislar/.vim/bundle/vim-peepopen/plugin/peepopen.vim	/^  map <unique> <silent> <Leader>p <Plug>PeepOpen$/;"	m	language:Vim
+<Leader>t	/Users/tanjapislar/.vim/bundle/vim-makegreen/plugin/makegreen.vim	/^  map <unique> <silent> <Leader>t <Plug>MakeGreen$/;"	m	language:Vim
+<leader>tc	/Users/tanjapislar/.vim/vimrc	/^map <leader>tc :tabclose<cr>$/;"	m	language:Vim
+<leader>tc	/Users/tanjapislar/Documents/books/peepcode/vim/peepcode-vim-code/dotvim-full/vimrc	/^map <leader>tc :tabclose<cr>$/;"	m	language:Vim
+<leader>te	/Users/tanjapislar/.vim/vimrc	/^map <leader>te :tabedit$/;"	m	language:Vim
+<leader>te	/Users/tanjapislar/Documents/books/peepcode/vim/peepcode-vim-code/dotvim-full/vimrc	/^map <leader>te :tabedit$/;"	m	language:Vim
+<leader>tf	/Users/tanjapislar/.vim/vimrc	/^map <leader>tf :tabfirst<cr>$/;"	m	language:Vim
+<leader>tf	/Users/tanjapislar/Documents/books/peepcode/vim/peepcode-vim-code/dotvim-full/vimrc	/^map <leader>tf :tabfirst<cr>$/;"	m	language:Vim
+<leader>tl	/Users/tanjapislar/.vim/vimrc	/^map <leader>tl :tablast<cr>$/;"	m	language:Vim
+<leader>tl	/Users/tanjapislar/Documents/books/peepcode/vim/peepcode-vim-code/dotvim-full/vimrc	/^map <leader>tl :tablast<cr>$/;"	m	language:Vim
+<leader>tm	/Users/tanjapislar/.vim/vimrc	/^map <leader>tm :tabmove$/;"	m	language:Vim
+<leader>tm	/Users/tanjapislar/Documents/books/peepcode/vim/peepcode-vim-code/dotvim-full/vimrc	/^map <leader>tm :tabmove$/;"	m	language:Vim
+<leader>tn	/Users/tanjapislar/.vim/vimrc	/^map <leader>tn :tabnext<cr>$/;"	m	language:Vim
+<leader>tn	/Users/tanjapislar/Documents/books/peepcode/vim/peepcode-vim-code/dotvim-full/vimrc	/^map <leader>tn :tabnext<cr>$/;"	m	language:Vim
+<leader>to	/Users/tanjapislar/.vim/vimrc	/^map <leader>to :tabonly<cr>$/;"	m	language:Vim
+<leader>to	/Users/tanjapislar/Documents/books/peepcode/vim/peepcode-vim-code/dotvim-full/vimrc	/^map <leader>to :tabonly<cr>$/;"	m	language:Vim
+<leader>tp	/Users/tanjapislar/.vim/vimrc	/^map <leader>tp :tabprevious<cr>$/;"	m	language:Vim
+<leader>tp	/Users/tanjapislar/Documents/books/peepcode/vim/peepcode-vim-code/dotvim-full/vimrc	/^map <leader>tp :tabprevious<cr>$/;"	m	language:Vim
+<leader>tt	/Users/tanjapislar/.vim/vimrc	/^map <leader>tt :tabnew<cr>$/;"	m	language:Vim
+<leader>tt	/Users/tanjapislar/Documents/books/peepcode/vim/peepcode-vim-code/dotvim-full/vimrc	/^map <leader>tt :tabnew<cr>$/;"	m	language:Vim
+<M-o>	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^    inoremap <M-o> <C-O>o$/;"	m	language:Vim
+<Plug>AlwaysEnd	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^    imap    <script> <Plug>AlwaysEnd        <SID>AlwaysEnd$/;"	m	language:Vim
+<Plug>Csurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^nnoremap <silent> <Plug>Csurround  :<C-U>call <SID>changesurround()<CR>$/;"	m	language:Vim
+<Plug>DiscretionaryEnd	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^    imap    <script> <Plug>DiscretionaryEnd <SID>DiscretionaryEnd$/;"	m	language:Vim
+<Plug>Dsurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^nnoremap <silent> <Plug>Dsurround  :<C-U>call <SID>dosurround(<SID>inputtarget())<CR>$/;"	m	language:Vim
+<Plug>Isurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^inoremap <silent> <Plug>Isurround  <C-R>=<SID>insert()<CR>$/;"	m	language:Vim
+<Plug>ISurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^inoremap <silent> <Plug>ISurround  <C-R>=<SID>insert(1)<CR>$/;"	m	language:Vim
+<Plug>MakeGreen	/Users/tanjapislar/.vim/bundle/vim-makegreen/plugin/makegreen.vim	/^noremap <unique> <script> <Plug>MakeGreen <SID>Make$/;"	m	language:Vim
+<Plug>PeepOpen	/Users/tanjapislar/.vim/bundle/vim-peepopen/plugin/peepopen.vim	/^noremap <unique> <script> <Plug>PeepOpen <SID>Launch$/;"	m	language:Vim
+<Plug>ragtagBSUrl	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^inoremap <silent> <Plug>ragtagBSUrl     <C-R>=<SID>bspattern('%\\x\\x\\=\\<Bar>&amp;')<CR>$/;"	m	language:Vim
+<Plug>ragtagBSXml	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^inoremap <silent> <Plug>ragtagBSXml     <C-R>=<SID>bspattern('&#\\=\\w*;\\<Bar><[^><]*>\\=')<CR>$/;"	m	language:Vim
+<Plug>ragtagHtmlComplete	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^inoremap <silent> <Plug>ragtagHtmlComplete <C-R>=<SID>htmlEn()<CR><C-X><C-O><C-P><C-R>=<SID>htmlDis()<CR><C-N>$/;"	m	language:Vim
+<Plug>ragtagUrlEncode	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^inoremap <silent> <Plug>ragtagUrlEncode <C-R>=<SID>toggleurlescape()<CR>$/;"	m	language:Vim
+<Plug>ragtagUrlV	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^inoremap <silent> <Plug>ragtagUrlV      <C-R>=<SID>urlv()<CR>$/;"	m	language:Vim
+<Plug>ragtagXmlEncode	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^inoremap <silent> <Plug>ragtagXmlEncode <C-R>=<SID>togglexmlescape()<CR>$/;"	m	language:Vim
+<Plug>ragtagXmlV	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^inoremap <silent> <Plug>ragtagXmlV      <C-R>="&#".getchar().";"<CR>$/;"	m	language:Vim
+<Plug>RooterChangeToRootDirectory	/Users/tanjapislar/.vim/bundle/vim-rooter/plugin/rooter.vim	/^noremap <unique> <script> <Plug>RooterChangeToRootDirectory <SID>ChangeToRootDirectory$/;"	m	language:Vim
+<Plug>unimpairedBlankDown	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nnoremap <silent> <Plug>unimpairedBlankDown :<C-U>put =repeat(nr2char(10),v:count)<Bar>'[-1<CR>$/;"	m	language:Vim
+<Plug>unimpairedBlankUp	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nnoremap <silent> <Plug>unimpairedBlankUp   :<C-U>put!=repeat(nr2char(10),v:count)<Bar>']+1<CR>$/;"	m	language:Vim
+<Plug>unimpairedMoveDown	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nnoremap <silent> <Plug>unimpairedMoveDown :<C-U>exe 'norm m`'<Bar>exe 'move+'.v:count1<CR>``$/;"	m	language:Vim
+<Plug>unimpairedMoveUp	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nnoremap <silent> <Plug>unimpairedMoveUp   :<C-U>exe 'norm m`'<Bar>exe 'move--'.v:count1<CR>``$/;"	m	language:Vim
+<Plug>unimpairedONext	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nnoremap <silent> <Plug>unimpairedONext     :<C-U>edit `=<SID>FileByOffset(v:count1)`<CR>$/;"	m	language:Vim
+<Plug>unimpairedOPrevious	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nnoremap <silent> <Plug>unimpairedOPrevious :<C-U>edit `=<SID>FileByOffset(-v:count1)`<CR>$/;"	m	language:Vim
+<Plug>VgSurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^vnoremap <silent> <Plug>VgSurround :<C-U>call <SID>opfunc(visualmode(),visualmode() ==# 'V' ? 0 : 1)<CR>$/;"	m	language:Vim
+<Plug>Vsurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^vnoremap <silent> <Plug>Vsurround  :<C-U>call <SID>opfunc(visualmode())<CR>$/;"	m	language:Vim
+<Plug>VSurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^vnoremap <silent> <Plug>VSurround  :<C-U>call <SID>opfunc(visualmode(),visualmode() ==# 'V' ? 1 : 0)<CR>$/;"	m	language:Vim
+<Plug>Yssurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^nnoremap <silent> <Plug>Yssurround :<C-U>call <SID>opfunc(v:count1)<CR>$/;"	m	language:Vim
+<Plug>YSsurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^nnoremap <silent> <Plug>YSsurround :<C-U>call <SID>opfunc2(v:count1)<CR>$/;"	m	language:Vim
+<Plug>YSurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^nnoremap <silent> <Plug>YSurround  :<C-U>set opfunc=<SID>opfunc2<CR>g@$/;"	m	language:Vim
+<Plug>Ysurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^nnoremap <silent> <Plug>Ysurround  :<C-U>set opfunc=<SID>opfunc<CR>g@$/;"	m	language:Vim
+<s-tab>	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/after/plugin/snipMate.vim	/^ino <silent> <s-tab> <c-r>=BackwardsSnippet()<cr>$/;"	m	language:Vim
+<SID>AlwaysEnd	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^    inoremap <silent> <SID>AlwaysEnd        <C-R>=<SID>crend(1)<CR>$/;"	m	language:Vim
+<SID>ChangeToRootDirectory	/Users/tanjapislar/.vim/bundle/vim-rooter/plugin/rooter.vim	/^noremap <SID>ChangeToRootDirectory :call <SID>ChangeToRootDirectory()<CR>$/;"	m	language:Vim
+<SID>DiscretionaryEnd	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^    inoremap <silent> <SID>DiscretionaryEnd <C-R>=<SID>crend(0)<CR>$/;"	m	language:Vim
+<SID>Launch	/Users/tanjapislar/.vim/bundle/vim-peepopen/plugin/peepopen.vim	/^noremap <SID>Launch :call <SID>LaunchPeepOpenViaVim()<CR>$/;"	m	language:Vim
+<SID>Make	/Users/tanjapislar/.vim/bundle/vim-makegreen/plugin/makegreen.vim	/^noremap <SID>Make :call <SID>RunMake()<CR>$/;"	m	language:Vim
+<SID>ragtagUrlEncode	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^inoremap <silent>  <SID>ragtagUrlEncode <C-R>=<SID>toggleurlescape()<CR>$/;"	m	language:Vim
+<SID>ragtagXmlEncode	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^inoremap <silent>  <SID>ragtagXmlEncode <C-R>=<SID>togglexmlescape()<CR>$/;"	m	language:Vim
+<SID>urlspace	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^inoremap <silent> <SID>urlspace <C-R>=<SID>getinput()=~?'\\%([?&]\\<Bar>&amp;\\)[%a-z0-9._~+-]*=[%a-z0-9._~+-]*$'?'+':'%20'<CR>$/;"	m	language:Vim
+<SID>xx	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^map <SID>xx <SID>xx$/;"	m	language:Vim
+<SID>xx	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    map <SID>xx <SID>xx$/;"	m	language:Vim
+<tab>	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/after/plugin/snipMate.vim	/^ino <silent> <tab> <c-r>=TriggerSnippet()<cr>$/;"	m	language:Vim
+Abbrev	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Abbrev(bang,...) abort$/;"	f	language:Vim
+abolish_l	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^function! s:abolish_l(word)$/;"	f	language:Vim
+abolish_setup	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^function! s:abolish_setup()$/;"	f	language:Vim
+abolish_t	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^function! s:abolish_t(word)$/;"	f	language:Vim
+Ack	/Users/tanjapislar/.vim/bundle/ack/plugin/ack.vim	/^command! -bang -nargs=* -complete=file Ack call s:Ack('grep<bang>',<q-args>)$/;"	c	language:Vim
+Ack	/Users/tanjapislar/.vim/bundle/ack/plugin/ack.vim	/^function! s:Ack(cmd, args)$/;"	f	language:Vim
+AckAdd	/Users/tanjapislar/.vim/bundle/ack/plugin/ack.vim	/^command! -bang -nargs=* -complete=file AckAdd call s:Ack('grepadd<bang>', <q-args>)$/;"	c	language:Vim
+AckFromSearch	/Users/tanjapislar/.vim/bundle/ack/plugin/ack.vim	/^command! -bang -nargs=* -complete=file AckFromSearch call s:AckFromSearch('grep<bang>', <q-args>)$/;"	c	language:Vim
+AckFromSearch	/Users/tanjapislar/.vim/bundle/ack/plugin/ack.vim	/^function! s:AckFromSearch(cmd, args)$/;"	f	language:Vim
+ActivateBuffer	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:ActivateBuffer()$/;"	f	language:Vim
+AddBracketExpand	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:AddBracketExpand(abbr,expn)$/;"	f	language:Vim
+AddColonExpand	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:AddColonExpand(abbr,expn)$/;"	f	language:Vim
+addfilecmds	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:addfilecmds(type)$/;"	f	language:Vim
+AddParenExpand	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:AddParenExpand(abbr,expn,...)$/;"	f	language:Vim
+AddSelectiveExpand	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:AddSelectiveExpand(abbr,pat,expn,...)$/;"	f	language:Vim
+AddTabExpand	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:AddTabExpand(abbr,expn)$/;"	f	language:Vim
+add_methods	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:add_methods(namespace, method_names)$/;"	f	language:Vim
+add_methods	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:add_methods(namespace, method_names) abort$/;"	f	language:Vim
+AllmlInit	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! AllmlInit()$/;"	f	language:Vim
+Alternate	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Alternate(cmd,line1,line2,count,...)$/;"	f	language:Vim
+app_background_script_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_background_script_command(cmd) dict abort$/;"	f	language:Vim
+app_dbext_settings	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_dbext_settings(environment) dict$/;"	f	language:Vim
+app_default_locale	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_default_locale() dict abort$/;"	f	language:Vim
+app_destroy_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_destroy_command(bang,...) dict$/;"	f	language:Vim
+app_environments	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_environments() dict$/;"	f	language:Vim
+app_eval	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_eval(ruby,...) dict abort$/;"	f	language:Vim
+app_execute_script_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_execute_script_command(cmd) dict abort$/;"	f	language:Vim
+app_file	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_file(name) dict abort$/;"	f	language:Vim
+app_find_file	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_find_file(name, ...) dict abort$/;"	f	language:Vim
+app_generate_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_generate_command(bang,...) dict$/;"	f	language:Vim
+app_generators	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_generators() dict$/;"	f	language:Vim
+app_has	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_has(feature) dict$/;"	f	language:Vim
+app_has_file	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_has_file(file) dict$/;"	f	language:Vim
+app_lightweight_ruby_eval	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_lightweight_ruby_eval(ruby,...) dict abort$/;"	f	language:Vim
+app_migration	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_migration(file) dict$/;"	f	language:Vim
+app_named_route_file	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_named_route_file(route) dict$/;"	f	language:Vim
+app_path	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_path(...) dict$/;"	f	language:Vim
+app_rake_tasks	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_rake_tasks() dict$/;"	f	language:Vim
+app_relglob	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_relglob(path,glob,...) dict$/;"	f	language:Vim
+app_route_names	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_route_names() dict$/;"	f	language:Vim
+app_ruby_shell_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_ruby_shell_command(cmd) dict abort$/;"	f	language:Vim
+app_runner_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_runner_command(count,args) dict$/;"	f	language:Vim
+app_script_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_script_command(bang,...) dict$/;"	f	language:Vim
+app_script_shell_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_script_shell_command(cmd) dict abort$/;"	f	language:Vim
+app_server_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_server_command(bang,arg) dict$/;"	f	language:Vim
+app_source_callback	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_source_callback(file) dict$/;"	f	language:Vim
+app_tags_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_tags_command() dict$/;"	f	language:Vim
+app_test_suites	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_test_suites() dict$/;"	f	language:Vim
+app_user_assertions	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_user_assertions() dict$/;"	f	language:Vim
+app_user_classes	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:app_user_classes() dict$/;"	f	language:Vim
+autocamelize	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:autocamelize(files,test)$/;"	f	language:Vim
+autoload	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^function! s:autoload(...)$/;"	f	language:Vim
+b:current_syntax	/Users/tanjapislar/.vim/bundle/vim-git/syntax/git.vim	/^let b:current_syntax = "git"$/;"	v	language:Vim
+b:current_syntax	/Users/tanjapislar/.vim/bundle/vim-git/syntax/gitcommit.vim	/^let b:current_syntax = "gitcommit"$/;"	v	language:Vim
+b:current_syntax	/Users/tanjapislar/.vim/bundle/vim-git/syntax/gitconfig.vim	/^let b:current_syntax = "gitconfig"$/;"	v	language:Vim
+b:current_syntax	/Users/tanjapislar/.vim/bundle/vim-git/syntax/gitrebase.vim	/^let b:current_syntax = "gitrebase"$/;"	v	language:Vim
+b:current_syntax	/Users/tanjapislar/.vim/bundle/vim-git/syntax/gitsendemail.vim	/^let b:current_syntax = "gitsendemail"$/;"	v	language:Vim
+b:current_syntax	/Users/tanjapislar/.vim/bundle/vim-markdown/syntax/markdown.vim	/^let b:current_syntax = "markdown"$/;"	v	language:Vim
+b:did_ftplugin	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/git.vim	/^let b:did_ftplugin = 1$/;"	v	language:Vim
+b:did_ftplugin	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitcommit.vim	/^let b:did_ftplugin = 1$/;"	v	language:Vim
+b:did_ftplugin	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitconfig.vim	/^let b:did_ftplugin = 1$/;"	v	language:Vim
+b:did_ftplugin	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^let b:did_ftplugin = 1$/;"	v	language:Vim
+b:did_indent	/Users/tanjapislar/.vim/bundle/vim-git/indent/gitconfig.vim	/^let b:did_indent = 1$/;"	v	language:Vim
+b:git_dir	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/git.vim	/^    let b:git_dir = $GIT_DIR$/;"	v	language:Vim
+b:git_dir	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/git.vim	/^    let b:git_dir = matchstr(expand('%:p'),'.*\\.git\\>')$/;"	v	language:Vim
+b:git_dir	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/git.vim	/^    let b:git_dir = substitute(b:git_dir,'\\\\','\/','g')$/;"	v	language:Vim
+b:git_dir	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitcommit.vim	/^  let b:git_dir = expand("%:p:h")$/;"	v	language:Vim
+b:undo_ftplugin	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/git.vim	/^let b:undo_ftplugin = "setl keywordprg< path< includeexpr<"$/;"	v	language:Vim
+b:undo_ftplugin	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitcommit.vim	/^    let b:undo_ftplugin = ""$/;"	v	language:Vim
+b:undo_ftplugin	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitcommit.vim	/^  let b:undo_ftplugin = b:undo_ftplugin . "|setl tw<"$/;"	v	language:Vim
+b:undo_ftplugin	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitconfig.vim	/^let b:undo_ftplugin = "setl fo< com< cms<"$/;"	v	language:Vim
+b:undo_ftplugin	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^  let b:undo_ftplugin = ""$/;"	v	language:Vim
+b:undo_ftplugin	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^let b:undo_ftplugin = b:undo_ftplugin . "|nunmap <buffer> K"$/;"	v	language:Vim
+b:undo_ftplugin	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^let b:undo_ftplugin = b:undo_ftplugin."|setl com< cms< fo<"$/;"	v	language:Vim
+b:undo_ftplugin	/Users/tanjapislar/.vim/bundle/vim-markdown/ftplugin/markdown.vim	/^let b:undo_ftplugin .= "|setl cms< com< fo<"$/;"	v	language:Vim
+BackwardsSnippet	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun! BackwardsSnippet()$/;"	f	language:Vim
+Bar	/Users/tanjapislar/.vim/bundle/vim-makegreen/plugin/makegreen.vim	/^function s:Bar(type, msg)$/;"	f	language:Vim
+beep	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:beep()$/;"	f	language:Vim
+bg	/Users/tanjapislar/.vim/colors/pink.vim	/^            let bg = s:checkargs(s:col[3])$/;"	v	language:Vim
+bg	/Users/tanjapislar/.vim/colors/pink.vim	/^        let bg = s:checkargs(s:col[3])$/;"	v	language:Vim
+binsert_r	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/list.vim	/^function! s:binsert_r(list, low, high, value, ignorecase)$/;"	f	language:Vim
+Blame	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Blame(bang,line1,line2,count,args) abort$/;"	f	language:Vim
+BlameJump	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:BlameJump(suffix) abort$/;"	f	language:Vim
+BlameSyntax	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:BlameSyntax() abort$/;"	f	language:Vim
+BlockGetCommentString	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:BlockGetCommentString(cms)$/;"	f	language:Vim
+BlockGetMiddleString	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:BlockGetMiddleString(cms)$/;"	f	language:Vim
+bspattern	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:bspattern(pattern)$/;"	f	language:Vim
+BufAbbreviations	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:BufAbbreviations()$/;"	f	language:Vim
+BufCommands	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:BufCommands()$/;"	f	language:Vim
+BufDatabase	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:BufDatabase(...)$/;"	f	language:Vim
+BufExplorer	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^command! BufExplorer :call BufExplorer(has ("gui") ? "drop" : "hide edit")$/;"	c	language:Vim
+BufExplorer	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! BufExplorer(open)$/;"	f	language:Vim
+BufExplorerHorizontalSplit	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^command! BufExplorerHorizontalSplit :call BufExplorerHorizontalSplit()$/;"	c	language:Vim
+BufExplorerHorizontalSplit	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! BufExplorerHorizontalSplit()$/;"	f	language:Vim
+BufExplorerVerticalSplit	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^command! BufExplorerVerticalSplit :call BufExplorerVerticalSplit()$/;"	c	language:Vim
+BufExplorerVerticalSplit	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! BufExplorerVerticalSplit()$/;"	f	language:Vim
+BufExplorer_IsValid	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! BufExplorer_IsValid()$/;"	f	language:Vim
+BufExplorer_Refresh	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! BufExplorer_Refresh()$/;"	f	language:Vim
+BufExplorer_ReSize	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! BufExplorer_ReSize()$/;"	f	language:Vim
+BufExplorer_Start	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! BufExplorer_Start()$/;"	f	language:Vim
+buffer	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer(...) abort$/;"	f	language:Vim
+buffer_app	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:buffer_app() dict abort$/;"	f	language:Vim
+buffer_commit	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_commit() dict abort$/;"	f	language:Vim
+buffer_compare_age	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_compare_age(commit) dict abort$/;"	f	language:Vim
+buffer_containing_commit	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_containing_commit() dict abort$/;"	f	language:Vim
+buffer_expand	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_expand(rev) dict abort$/;"	f	language:Vim
+buffer_getline	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:buffer_getline(...) dict abort$/;"	f	language:Vim
+buffer_getline	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_getline(lnum) dict abort$/;"	f	language:Vim
+buffer_getvar	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:buffer_getvar(varname) dict abort$/;"	f	language:Vim
+buffer_getvar	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_getvar(var) dict abort$/;"	f	language:Vim
+buffer_lines	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:buffer_lines() dict abort$/;"	f	language:Vim
+buffer_name	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:buffer_name() dict abort$/;"	f	language:Vim
+buffer_name	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_name() dict abort$/;"	f	language:Vim
+buffer_number	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:buffer_number() dict abort$/;"	f	language:Vim
+buffer_path	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:buffer_path() dict abort$/;"	f	language:Vim
+buffer_path	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_path(...) dict abort$/;"	f	language:Vim
+buffer_repo	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_repo() dict abort$/;"	f	language:Vim
+buffer_rev	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_rev() dict abort$/;"	f	language:Vim
+buffer_setvar	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:buffer_setvar(varname, val) dict abort$/;"	f	language:Vim
+buffer_setvar	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_setvar(var,value) dict abort$/;"	f	language:Vim
+buffer_sha1	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_sha1() dict abort$/;"	f	language:Vim
+buffer_type	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:buffer_type(...) dict abort$/;"	f	language:Vim
+buffer_type_name	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:buffer_type_name(...) dict abort$/;"	f	language:Vim
+BufFinderCommands	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:BufFinderCommands()$/;"	f	language:Vim
+BufInit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^function! s:BufInit(path)$/;"	f	language:Vim
+BufMappings	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:BufMappings()$/;"	f	language:Vim
+BufModelines	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:BufModelines()$/;"	f	language:Vim
+BufNavCommands	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:BufNavCommands()$/;"	f	language:Vim
+BufReadIndex	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:BufReadIndex()$/;"	f	language:Vim
+BufReadIndexFile	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:BufReadIndexFile()$/;"	f	language:Vim
+BufReadObject	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:BufReadObject()$/;"	f	language:Vim
+BufScriptWrappers	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:BufScriptWrappers()$/;"	f	language:Vim
+BufSettings	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:BufSettings()$/;"	f	language:Vim
+BufSyntax	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:BufSyntax()$/;"	f	language:Vim
+BufWriteIndexFile	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:BufWriteIndexFile()$/;"	f	language:Vim
+BuildBufferList	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:BuildBufferList()$/;"	f	language:Vim
+BuildTabStops	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun s:BuildTabStops(snip, lnum, col, indent)$/;"	f	language:Vim
+cache_clear	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:cache_clear(...) dict$/;"	f	language:Vim
+cache_get	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:cache_get(...) dict$/;"	f	language:Vim
+cache_has	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:cache_has(key) dict$/;"	f	language:Vim
+cache_needs	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:cache_needs(key) dict$/;"	f	language:Vim
+cache_set	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:cache_set(key,value) dict$/;"	f	language:Vim
+cache_tagged_files	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:cache_tagged_files(context) " {{{3$/;"	f	language:Vim
+cache_tagged_files_in	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:cache_tagged_files_in(fname, ftime, entries, context) " {{{3$/;"	f	language:Vim
+canonicalize	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:canonicalize(filename, context) " {{{2$/;"	f	language:Vim
+changesurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:changesurround() " {{{1$/;"	f	language:Vim
+ChangeToRootDirectory	/Users/tanjapislar/.vim/bundle/vim-rooter/plugin/rooter.vim	/^function! s:ChangeToRootDirectory()$/;"	f	language:Vim
+charset	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:charset()$/;"	f	language:Vim
+checkargs	/Users/tanjapislar/.vim/colors/pink.vim	/^function! s:checkargs(arg)$/;"	f	language:Vim
+CheckCtags	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^function! s:CheckCtags(name, version)$/;"	f	language:Vim
+check_cfile	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:check_cfile(silent, filter_tags, have_args) " {{{3$/;"	f	language:Vim
+check_filetype	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:check_filetype(listing, cline)$/;"	f	language:Vim
+choose	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^function! s:choose(word)$/;"	f	language:Vim
+choose	/Users/tanjapislar/.vim/colors/vividchalk.vim	/^function! s:choose(mediocre,good)$/;"	f	language:Vim
+ChooseSnippet	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun s:ChooseSnippet(scope, trigger)$/;"	f	language:Vim
+Cleanup	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:Cleanup()$/;"	f	language:Vim
+clear_message	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/msg.vim	/^function! s:clear_message()$/;"	f	language:Vim
+Close	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:Close()$/;"	f	language:Vim
+Close	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/ftplugin/html_snip_helper.vim	/^fun! Close()$/;"	f	language:Vim
+closematch	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:closematch(str) " {{{1$/;"	f	language:Vim
+closetag	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:closetag()$/;"	f	language:Vim
+closetagback	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:closetagback()$/;"	f	language:Vim
+colors_name	/Users/tanjapislar/.vim/colors/default.vim	/^let colors_name = "default"$/;"	v	language:Vim
+colors_name	/Users/tanjapislar/.vim/colors/emacs.vim	/^let colors_name = "emacs"$/;"	v	language:Vim
+colors_name	/Users/tanjapislar/.vim/colors/topfunky-light.vim	/^let colors_name = "topfunky-light"$/;"	v	language:Vim
+colors_name	/Users/tanjapislar/.vim/colors/vividchalk.vim	/^let colors_name = "vividchalk"$/;"	v	language:Vim
+command	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:command(definition) abort$/;"	f	language:Vim
+CommandEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:CommandEdit(cmd,name,prefix,suffix,filter,default,...)$/;"	f	language:Vim
+CommandList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:CommandList(A,L,P)$/;"	f	language:Vim
+CommentBlock	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:CommentBlock(beg, end, uncomment, checkRx, replace, indentStr)$/;"	f	language:Vim
+CommentDef	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:CommentDef(beg, end, checkRx, commentMode, cstart, cend)$/;"	f	language:Vim
+CommentLines	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:CommentLines(beg, end, cstart, cend, uncomment, cmtCheck, cms0, indentStr) "{{{3$/;"	f	language:Vim
+CommentMode	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:CommentMode(commentMode, newmode) "{{{3$/;"	f	language:Vim
+Commit	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Commit(args) abort$/;"	f	language:Vim
+CommitComplete	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:CommitComplete(A,L,P) abort$/;"	f	language:Vim
+compatibility_check	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:compatibility_check()$/;"	f	language:Vim
+Complete_cd	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_cd(ArgLead, CmdLine, CursorPos)$/;"	f	language:Vim
+Complete_console	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_console(A,L,P)$/;"	f	language:Vim
+Complete_destroy	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_destroy(A,L,P)$/;"	f	language:Vim
+Complete_edit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_edit(ArgLead, CmdLine, CursorPos)$/;"	f	language:Vim
+Complete_environments	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_environments(...)$/;"	f	language:Vim
+Complete_find	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_find(ArgLead, CmdLine, CursorPos)$/;"	f	language:Vim
+Complete_generate	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_generate(A,L,P)$/;"	f	language:Vim
+Complete_preview	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_preview(A,L,P)$/;"	f	language:Vim
+Complete_rake	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_rake(A,L,P)$/;"	f	language:Vim
+Complete_related	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_related(A,L,P)$/;"	f	language:Vim
+Complete_ruby	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_ruby(A,L,P)$/;"	f	language:Vim
+Complete_script	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_script(ArgLead,CmdLine,P)$/;"	f	language:Vim
+Complete_server	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_server(A,L,P)$/;"	f	language:Vim
+Complete_set	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Complete_set(A,L,P)$/;"	f	language:Vim
+completion_filter	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:completion_filter(results,A)$/;"	f	language:Vim
+ConstructFromComments	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:ConstructFromComments(commentMode)$/;"	f	language:Vim
+controller	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:controller(...)$/;"	f	language:Vim
+controllerEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:controllerEdit(cmd,...)$/;"	f	language:Vim
+controllerList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:controllerList(A,L,P)$/;"	f	language:Vim
+convert_value	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/timer.vim	/^function! s:convert_value(value)$/;"	f	language:Vim
+Count	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun s:Count(haystack, needle)$/;"	f	language:Vim
+counters	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^counters = {}$/;"	v	language:Python
+CreateHelp	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:CreateHelp()$/;"	f	language:Vim
+create_context	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:create_context() " {{{2$/;"	f	language:Vim
+crend	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^function! s:crend(always)$/;"	f	language:Vim
+cs	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^  nmap      cs   <Plug>Csurround$/;"	m	language:Vim
+CustomComplete	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:CustomComplete(A,L,P,cmd)$/;"	f	language:Vim
+Cycle	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^command! -buffer -bar Cycle  :call s:cycle()$/;"	c	language:Vim
+cycle	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^function! s:cycle()$/;"	f	language:Vim
+DeactivateBuffer	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:DeactivateBuffer(remove)$/;"	f	language:Vim
+debug	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:debug(str)$/;"	f	language:Vim
+DefaultValue	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:DefaultValue(option)$/;"	f	language:Vim
+DefineSnips	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun s:DefineSnips(dir, aliasft, realft)$/;"	f	language:Vim
+define_commands	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:define_commands()$/;"	f	language:Vim
+DeleteBuffer	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:DeleteBuffer(buf, mode)$/;"	f	language:Vim
+Detect	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^function! s:Detect(filename)$/;"	f	language:Vim
+Detect	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Detect(path)$/;"	f	language:Vim
+Diff	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Diff(...) abort$/;"	f	language:Vim
+diffcomplete	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitcommit.vim	/^function! s:diffcomplete(A,L,P)$/;"	f	language:Vim
+DiffGitCached	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitcommit.vim	/^command! -bang -bar -buffer -complete=custom,s:diffcomplete -nargs=* DiffGitCached :call s:gitdiffcached(<bang>0,b:git_dir,<f-args>)$/;"	c	language:Vim
+DirComplete	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:DirComplete(A,L,P) abort$/;"	f	language:Vim
+disableescape	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:disableescape()$/;"	f	language:Vim
+DisplayBufferList	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:DisplayBufferList()$/;"	f	language:Vim
+djump	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:djump(def)$/;"	f	language:Vim
+Doc	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Doc(bang, string)$/;"	f	language:Vim
+doctypeSeek	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:doctypeSeek()$/;"	f	language:Vim
+dosurround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:dosurround(...) " {{{1$/;"	f	language:Vim
+dotcmp	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:dotcmp(i1, i2)$/;"	f	language:Vim
+ds	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^  nmap      ds   <Plug>Dsurround$/;"	m	language:Vim
+E2T	/Users/tanjapislar/.vim/colors/vividchalk.vim	/^function! E2T(a)$/;"	f	language:Vim
+easytags_gensyncmd	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/highlight.py	/^def easytags_gensyncmd(tagsfiles, filetype, tagkinds, syntaxgroup, prefix, suffix, filters, ignoresyntax):$/;"	f	language:Python
+easytags_ping	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/highlight.py	/^def easytags_ping():$/;"	f	language:Python
+edit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:edit(cmd,file,...)$/;"	f	language:Vim
+Edit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Edit(count,cmd,...)$/;"	f	language:Vim
+Edit	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Edit(cmd,...) abort$/;"	f	language:Vim
+Edit	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^command! -buffer -bar Edit   :call s:choose('edit')$/;"	c	language:Vim
+editcmdfor	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:editcmdfor(cmd)$/;"	f	language:Vim
+EditComplete	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:EditComplete(A,L,P) abort$/;"	f	language:Vim
+EditSimpleRb	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:EditSimpleRb(cmd,name,target,prefix,suffix,...)$/;"	f	language:Vim
+EncodeCommentPart	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:EncodeCommentPart(string)$/;"	f	language:Vim
+endof	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:endof(lnum)$/;"	f	language:Vim
+EndRx	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:EndRx(pos)$/;"	f	language:Vim
+ents	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^comments); tComment can't currently deduce inline comment styles from $/;"	c	language:Vim
+environment	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:environment()$/;"	f	language:Vim
+environmentEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:environmentEdit(cmd,...)$/;"	f	language:Vim
+environmentList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:environmentList(A,L,P)$/;"	f	language:Vim
+Error	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:Error(msg)$/;"	f	language:Vim
+error	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:error(str)$/;"	f	language:Vim
+error	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^function! s:error(str)$/;"	f	language:Vim
+escape	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/option.vim	/^function! s:escape(s)$/;"	f	language:Vim
+escape_tags	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/option.vim	/^function! s:escape_tags(s)$/;"	f	language:Vim
+escarg	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:escarg(p)$/;"	f	language:Vim
+esccmd	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:esccmd(p)$/;"	f	language:Vim
+escvar	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^function! s:escvar(r)$/;"	f	language:Vim
+ExecuteInTree	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:ExecuteInTree(cmd) abort$/;"	f	language:Vim
+Extract	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Extract(bang,...) range abort$/;"	f	language:Vim
+extractafter	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:extractafter(str)$/;"	f	language:Vim
+extractbefore	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:extractbefore(str)$/;"	f	language:Vim
+ExtractCommentsPart	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:ExtractCommentsPart(key)$/;"	f	language:Vim
+extractdbvar	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:extractdbvar(str,arg)$/;"	f	language:Vim
+ExtractGitDir	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:ExtractGitDir(path) abort$/;"	f	language:Vim
+ExtractSnips	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun! ExtractSnips(dir, ft)$/;"	f	language:Vim
+ExtractSnipsFile	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun! ExtractSnipsFile(file, ft)$/;"	f	language:Vim
+fg	/Users/tanjapislar/.vim/colors/pink.vim	/^            let fg = s:checkargs(s:col[2])$/;"	v	language:Vim
+fg	/Users/tanjapislar/.vim/colors/pink.vim	/^        let fg = s:checkargs(s:col[2])$/;"	v	language:Vim
+fields	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^  fields = line.split('\\t')$/;"	v	language:Python
+FileByOffset	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:FileByOffset(num)$/;"	f	language:Vim
+Filename	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun! Filename(...)$/;"	f	language:Vim
+filename	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^    filename = filename.replace(os.environ['HOME'], '~')$/;"	v	language:Python
+filename	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^  filename = fields[1]$/;"	v	language:Python
+FileRead	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:FileRead()$/;"	f	language:Vim
+file_getline	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:file_getline(lnum,...) dict abort$/;"	f	language:Vim
+file_lines	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:file_lines() dict abort$/;"	f	language:Vim
+file_name	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:file_name() dict abort$/;"	f	language:Vim
+file_path	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:file_path() dict abort$/;"	f	language:Vim
+filter_merge_tags	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:filter_merge_tags(filter_tags, tagsfile, output, context) " {{{3$/;"	f	language:Vim
+Find	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Find(count,cmd,...)$/;"	f	language:Vim
+findamethod	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:findamethod(func,repl)$/;"	f	language:Vim
+findasymbol	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:findasymbol(sym,repl)$/;"	f	language:Vim
+findcmdfor	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:findcmdfor(cmd)$/;"	f	language:Vim
+findedit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:findedit(cmd,files,...) abort$/;"	f	language:Vim
+findfromview	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:findfromview(func,repl)$/;"	f	language:Vim
+findit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:findit(pat,repl)$/;"	f	language:Vim
+findlayout	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:findlayout(name)$/;"	f	language:Vim
+FindRootDirectory	/Users/tanjapislar/.vim/bundle/vim-rooter/plugin/rooter.vim	/^function! s:FindRootDirectory()$/;"	f	language:Vim
+findview	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:findview(name)$/;"	f	language:Vim
+find_tagged_files	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:find_tagged_files(entries, context) " {{{3$/;"	f	language:Vim
+FinishCommit	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:FinishCommit()$/;"	f	language:Vim
+fixindent	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:fixindent(str,spc)$/;"	f	language:Vim
+fixturesEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:fixturesEdit(cmd,...)$/;"	f	language:Vim
+fixturesList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:fixturesList(A,L,P)$/;"	f	language:Vim
+Fixup	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^command! -buffer -bar Fixup  :call s:choose('fixup')$/;"	c	language:Vim
+fnameescape	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:fnameescape(file) abort$/;"	f	language:Vim
+foldcase_compare	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:foldcase_compare(a, b)$/;"	f	language:Vim
+format	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:format()$/;"	f	language:Vim
+fugitive	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^augroup fugitive$/;"	a	language:Vim
+fugitive#buffer	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! fugitive#buffer(...) abort$/;"	f	language:Vim
+fugitive#reload_status	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! fugitive#reload_status() abort$/;"	f	language:Vim
+fugitive#statusline	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! fugitive#statusline(...)$/;"	f	language:Vim
+fugitive_blame	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^augroup fugitive_blame$/;"	a	language:Vim
+fugitive_commit	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^augroup fugitive_commit$/;"	a	language:Vim
+fugitive_diff	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^augroup fugitive_diff$/;"	a	language:Vim
+fugitive_files	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^augroup fugitive_files$/;"	a	language:Vim
+fugitive_remove	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^augroup fugitive_remove$/;"	a	language:Vim
+fugitive_utility	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^augroup fugitive_utility$/;"	a	language:Vim
+function	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:function(name)$/;"	f	language:Vim
+function	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^function! s:function(name)$/;"	f	language:Vim
+function	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:function(name) abort$/;"	f	language:Vim
+functionaltestEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:functionaltestEdit(cmd,...)$/;"	f	language:Vim
+functionaltestList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:functionaltestList(A,L,P)$/;"	f	language:Vim
+fuzzyglob	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:fuzzyglob(arg)$/;"	f	language:Vim
+g:ackprg	/Users/tanjapislar/.vim/bundle/ack/plugin/ack.vim	/^let g:ackprg="ack -H --nocolor --nogroup"$/;"	v	language:Vim
+g:autoloaded_rails	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let g:autoloaded_rails = '4.4'$/;"	v	language:Vim
+g:BufExplorer_title	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^let g:BufExplorer_title = "\\[Buf\\ List\\]"$/;"	v	language:Vim
+g:bufexplorer_version	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^let g:bufexplorer_version = "7.3.0"$/;"	v	language:Vim
+g:colors_name	/Users/tanjapislar/.vim/colors/pink.vim	/^let g:colors_name = "pink"$/;"	v	language:Vim
+g:did_ft	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^let g:did_ft = {}$/;"	v	language:Vim
+g:easytags_by_filetype	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^  let g:easytags_by_filetype = ''$/;"	v	language:Vim
+g:easytags_events	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^  let g:easytags_events = []$/;"	v	language:Vim
+g:easytags_file	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^    let g:easytags_file = '~\/.vimtags'$/;"	v	language:Vim
+g:easytags_file	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^    let g:easytags_file = '~\\_vimtags'$/;"	v	language:Vim
+g:easytags_ignored_filetypes	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^  let g:easytags_ignored_filetypes = '^tex$'$/;"	v	language:Vim
+g:easytags_ignored_syntax_groups	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^  let g:easytags_ignored_syntax_groups = '.*String.*,.*Comment.*,cIncluded'$/;"	v	language:Vim
+g:easytags_python_script	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^  let g:easytags_python_script = expand('<sfile>:p:h') . '\/..\/misc\/easytags\/highlight.py'$/;"	v	language:Vim
+g:fugitive_git_executable	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^  let g:fugitive_git_executable = 'git'$/;"	v	language:Vim
+g:fugitive_summary_format	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^  let g:fugitive_summary_format = '%s'$/;"	v	language:Vim
+g:loaded_easytags	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^let g:loaded_easytags = 1$/;"	v	language:Vim
+g:loaded_endwise	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^let g:loaded_endwise = 1$/;"	v	language:Vim
+g:loaded_fugitive	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^let g:loaded_fugitive = 1$/;"	v	language:Vim
+g:loaded_pathogen	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^let g:loaded_pathogen = 1$/;"	v	language:Vim
+g:loaded_ragtag	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^let g:loaded_ragtag = 1$/;"	v	language:Vim
+g:loaded_rails	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^let g:loaded_rails = 1$/;"	v	language:Vim
+g:loaded_surround	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^let g:loaded_surround = 1$/;"	v	language:Vim
+g:loaded_unimpaired	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^let g:loaded_unimpaired = 1$/;"	v	language:Vim
+g:makegreen_loaded	/Users/tanjapislar/.vim/bundle/vim-makegreen/plugin/makegreen.vim	/^let g:makegreen_loaded = 1$/;"	v	language:Vim
+g:peepopen_loaded	/Users/tanjapislar/.vim/bundle/vim-peepopen/plugin/peepopen.vim	/^let g:peepopen_loaded = 1$/;"	v	language:Vim
+g:tcommentBlankLines	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentBlankLines = 1$/;"	v	language:Vim
+g:tcommentBlockC	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentBlockC = "\/*%s *\/\\n * "$/;"	v	language:Vim
+g:tcommentBlockC2	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentBlockC2 = "\/**%s *\/\\n * "$/;"	v	language:Vim
+g:tcommentBlockXML	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentBlockXML = "<!--%s-->\\n  "$/;"	v	language:Vim
+g:tcommentFileTypesDirty	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^let g:tcommentFileTypesDirty = 1$/;"	v	language:Vim
+g:tcommentGuessFileType	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentGuessFileType = 0$/;"	v	language:Vim
+g:tcommentGuessFileType_dsl	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentGuessFileType_dsl = 'xml'$/;"	v	language:Vim
+g:tcommentGuessFileType_html	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentGuessFileType_html = 1$/;"	v	language:Vim
+g:tcommentGuessFileType_php	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentGuessFileType_php = 'html'$/;"	v	language:Vim
+g:tcommentGuessFileType_tskeleton	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentGuessFileType_tskeleton = 1$/;"	v	language:Vim
+g:tcommentGuessFileType_vim	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentGuessFileType_vim = 1$/;"	v	language:Vim
+g:tcommentIgnoreTypes_php	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentIgnoreTypes_php = 'sql'$/;"	v	language:Vim
+g:tcommentInlineC	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentInlineC = "\/* %s *\/"$/;"	v	language:Vim
+g:tcommentInlineXML	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentInlineXML = "<!-- %s -->"$/;"	v	language:Vim
+g:tcommentMapLeader1	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentMapLeader1 = '<c-_>'$/;"	v	language:Vim
+g:tcommentMapLeader2	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentMapLeader2 = '<Leader>_'$/;"	v	language:Vim
+g:tcommentMapLeaderOp1	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentMapLeaderOp1 = 'gc'$/;"	v	language:Vim
+g:tcommentMapLeaderOp2	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentMapLeaderOp2 = 'gC'$/;"	v	language:Vim
+g:tcommentOpModeExtra	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentOpModeExtra = ''$/;"	v	language:Vim
+g:tcommentSyntaxMap	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^    let g:tcommentSyntaxMap = {$/;"	v	language:Vim
+g:timer_enabled	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/timer.vim	/^  let g:timer_enabled = 0$/;"	v	language:Vim
+g:timer_verbosity	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/timer.vim	/^  let g:timer_verbosity = 1$/;"	v	language:Vim
+g:unimpaired_html_entities	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^let g:unimpaired_html_entities = {$/;"	v	language:Vim
+g:xolox#easytags#version	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^let g:xolox#easytags#version = '2.8.1'$/;"	v	language:Vim
+g:xolox#misc#os#version	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/os.vim	/^let g:xolox#misc#os#version = '0.1'$/;"	v	language:Vim
+g:xolox_messages	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/msg.vim	/^  let g:xolox_messages = []$/;"	v	language:Vim
+g:xolox_message_buffer	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/msg.vim	/^  let g:xolox_message_buffer = 100$/;"	v	language:Vim
+GetBufferInfo	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:GetBufferInfo(bufnr)$/;"	f	language:Vim
+getchar	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:getchar()$/;"	f	language:Vim
+GetCommentString	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:GetCommentString(beg, end, commentMode, ...)$/;"	f	language:Vim
+GetCustomCommentString	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:GetCustomCommentString(ft, commentMode, ...)$/;"	f	language:Vim
+GetFirstError	/Users/tanjapislar/.vim/bundle/vim-makegreen/plugin/makegreen.vim	/^function s:GetFirstError()$/;"	f	language:Vim
+GetGitconfigIndent	/Users/tanjapislar/.vim/bundle/vim-git/indent/gitconfig.vim	/^function! GetGitconfigIndent()$/;"	f	language:Vim
+GetHelpStatus	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:GetHelpStatus()$/;"	f	language:Vim
+GetIndentString	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:GetIndentString(line, start)$/;"	f	language:Vim
+getinput	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:getinput()$/;"	f	language:Vim
+getopt	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:getopt(opt,...)$/;"	f	language:Vim
+getpidfor	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:getpidfor(bind,port)$/;"	f	language:Vim
+GetSnippet	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun s:GetSnippet(word, scope)$/;"	f	language:Vim
+GetSnippets	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun! GetSnippets(dir, filetypes)$/;"	f	language:Vim
+GetTabNbr	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:GetTabNbr(bufNbr)$/;"	f	language:Vim
+GetWinNbr	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:GetWinNbr(tabNbr, bufNbr)$/;"	f	language:Vim
+GF	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:GF(mode) abort$/;"	f	language:Vim
+Git	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Git(bang,cmd) abort$/;"	f	language:Vim
+GitComplete	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:GitComplete(A,L,P) abort$/;"	f	language:Vim
+gitdiffcached	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitcommit.vim	/^function! s:gitdiffcached(bang,gitdir,...)$/;"	f	language:Vim
+Grep	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Grep(bang,arg) abort$/;"	f	language:Vim
+gS	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^    vmap    gS   <Plug>VgSurround$/;"	m	language:Vim
+gsub	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:gsub(str,pat,rep)$/;"	f	language:Vim
+gsub	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:gsub(str,pat,rep) abort$/;"	f	language:Vim
+GuessCurrentCommentString	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:GuessCurrentCommentString(commentMode)$/;"	f	language:Vim
+GuessFileType	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:GuessFileType(beg, end, commentMode, filetype, ...)$/;"	f	language:Vim
+handle_error	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/open.vim	/^function! s:handle_error(cmd, output)$/;"	f	language:Vim
+helperEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:helperEdit(cmd,...)$/;"	f	language:Vim
+helperList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:helperList(A,L,P)$/;"	f	language:Vim
+helpermethods	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:helpermethods()$/;"	f	language:Vim
+hibg	/Users/tanjapislar/.vim/colors/vividchalk.vim	/^function! s:hibg(group,guibg,first,second)$/;"	f	language:Vim
+HiDefaults	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:HiDefaults()$/;"	f	language:Vim
+hifg	/Users/tanjapislar/.vim/colors/vividchalk.vim	/^function! s:hifg(group,guifg,first,second,...)$/;"	f	language:Vim
+HighlightTags	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^command! -bar HighlightTags call xolox#easytags#highlight()$/;"	c	language:Vim
+highlight_with_python	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:highlight_with_python(syntax_group, tagkind) " {{{2$/;"	f	language:Vim
+htmlDis	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:htmlDis()$/;"	f	language:Vim
+htmlEn	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:htmlEn()$/;"	f	language:Vim
+infile	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^infile = open(os.path.expanduser(tagsfile))$/;"	v	language:Python
+Init	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:Init()$/;"	f	language:Vim
+InitEasyTags	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^function! s:InitEasyTags(version)$/;"	f	language:Vim
+Initialize	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:Initialize()$/;"	f	language:Vim
+initializerEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:initializerEdit(cmd,...)$/;"	f	language:Vim
+initializerList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:initializerList(A,L,P)$/;"	f	language:Vim
+initOpenURL	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:initOpenURL()$/;"	f	language:Vim
+inputreplacement	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:inputreplacement()$/;"	f	language:Vim
+inputtarget	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:inputtarget()$/;"	f	language:Vim
+insert	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:insert(...) " {{{1$/;"	f	language:Vim
+insertTag	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:insertTag(tag)$/;"	f	language:Vim
+integrationtestEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:integrationtestEdit(cmd,...)$/;"	f	language:Vim
+integrationtestList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:integrationtestList(A,L,P)$/;"	f	language:Vim
+Invert	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Invert(bang)$/;"	f	language:Vim
+invertrange	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:invertrange(beg,end)$/;"	f	language:Vim
+javascriptEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:javascriptEdit(cmd,...)$/;"	f	language:Vim
+javascriptIncludeTag	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:javascriptIncludeTag()$/;"	f	language:Vim
+javascriptList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:javascriptList(A,L,P)$/;"	f	language:Vim
+join_entry	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:join_entry(value)$/;"	f	language:Vim
+JumpInit	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:JumpInit() abort$/;"	f	language:Vim
+K	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^nnoremap <buffer> <expr> K col('.') < 7 && expand('<Lt>cword>') =~ '\\X' && getline('.') =~ '^\\w\\+\\s\\+\\x\\+\\>' ? 'wK' : 'K'$/;"	m	language:Vim
+LAck	/Users/tanjapislar/.vim/bundle/ack/plugin/ack.vim	/^command! -bang -nargs=* -complete=file LAck call s:Ack('lgrep<bang>', <q-args>)$/;"	c	language:Vim
+LAckAdd	/Users/tanjapislar/.vim/bundle/ack/plugin/ack.vim	/^command! -bang -nargs=* -complete=file LAckAdd call s:Ack('lgrepadd<bang>', <q-args>)$/;"	c	language:Vim
+lastmethod	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:lastmethod(...)$/;"	f	language:Vim
+lastmethodline	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:lastmethodline(start)$/;"	f	language:Vim
+lastopeningline	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:lastopeningline(pattern,limit,start)$/;"	f	language:Vim
+LaunchPeepOpenViaVim	/Users/tanjapislar/.vim/bundle/vim-peepopen/plugin/peepopen.vim	/^function s:LaunchPeepOpenViaVim()$/;"	f	language:Vim
+layoutEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:layoutEdit(cmd,...)$/;"	f	language:Vim
+layoutList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:layoutList(A,L,P)$/;"	f	language:Vim
+Leave	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:Leave()$/;"	f	language:Vim
+length	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:length(str)$/;"	f	language:Vim
+libEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:libEdit(cmd,...)$/;"	f	language:Vim
+libList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:libList(A,L,P)$/;"	f	language:Vim
+linepeak	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:linepeak()$/;"	f	language:Vim
+loaded_rooter	/Users/tanjapislar/.vim/bundle/vim-rooter/plugin/rooter.vim	/^let loaded_rooter = 1$/;"	v	language:Vim
+loaded_snips	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^let loaded_snips = 1$/;"	v	language:Vim
+loaded_taglist	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^            let loaded_taglist = 'no'$/;"	v	language:Vim
+loaded_taglist	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let loaded_taglist = 'no'$/;"	v	language:Vim
+loaded_taglist	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    let loaded_taglist = 'fast_load_done'$/;"	v	language:Vim
+loaded_taglist	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let loaded_taglist = 'available'$/;"	v	language:Vim
+loaded_tcomment	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^let loaded_tcomment = 109$/;"	v	language:Vim
+loaded_tcomment_autoload	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^let loaded_tcomment_autoload = 1$/;"	v	language:Vim
+localeEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:localeEdit(cmd,...)$/;"	f	language:Vim
+localeList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:localeList(A,L,P)$/;"	f	language:Vim
+LocalModelines	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:LocalModelines(lnum)$/;"	f	language:Vim
+Log	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Log(bang,arg)$/;"	f	language:Vim
+Log	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Log(cmd,...)$/;"	f	language:Vim
+M	/Users/tanjapislar/.vim/colors/vividchalk.vim	/^fun! s:M(a)$/;"	f	language:Vim
+mailerEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:mailerEdit(cmd,...)$/;"	f	language:Vim
+mailerList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:mailerList(A,L,P)$/;"	f	language:Vim
+main	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/normalize-tags.py	/^def main(arguments):$/;"	f	language:Python
+MakeSnip	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun! MakeSnip(scope, trigger, content, ...)$/;"	f	language:Vim
+makewithruby	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:makewithruby(arg,bang,...)$/;"	f	language:Vim
+MapKeys	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:MapKeys()$/;"	f	language:Vim
+MapNextFamily	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:MapNextFamily(map,cmd)$/;"	f	language:Vim
+MapTransform	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:MapTransform(algorithm, key)$/;"	f	language:Vim
+matchcursor	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:matchcursor(pat)$/;"	f	language:Vim
+match_type	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:match_type(type,...)$/;"	f	language:Vim
+metalEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:metalEdit(cmd,...)$/;"	f	language:Vim
+metalList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:metalList(A,L,P)$/;"	f	language:Vim
+mextargs	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:mextargs(str,num)$/;"	f	language:Vim
+migrationEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:migrationEdit(cmd,...)$/;"	f	language:Vim
+migrationList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:migrationList(A,L,P)$/;"	f	language:Vim
+migspc	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:migspc(line)$/;"	f	language:Vim
+mkeep	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:mkeep(str)$/;"	f	language:Vim
+model	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:model(...)$/;"	f	language:Vim
+modelEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:modelEdit(cmd,...)$/;"	f	language:Vim
+modelList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:modelList(A,L,P)$/;"	f	language:Vim
+Move	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Move(force,destination)$/;"	f	language:Vim
+MoveComplete	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:MoveComplete(A,L,P)$/;"	f	language:Vim
+MRUCmp	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:MRUCmp(line1, line2)$/;"	f	language:Vim
+MRUListShow	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:MRUListShow()$/;"	f	language:Vim
+MRUPop	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:MRUPop(bufnr)$/;"	f	language:Vim
+MRUPush	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:MRUPush(buf)$/;"	f	language:Vim
+mysearchpair	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^function! s:mysearchpair(beginpat,endpat,synpat)$/;"	f	language:Vim
+Navcommand	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Navcommand(bang,...)$/;"	f	language:Vim
+normalize	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/normalize-tags.py	/^def normalize(tagsfile):$/;"	f	language:Python
+observerEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:observerEdit(cmd,...)$/;"	f	language:Vim
+observerList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:observerList(A,L,P)$/;"	f	language:Vim
+opfunc	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:opfunc(type,...) " {{{1$/;"	f	language:Vim
+opfunc2	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:opfunc2(arg)$/;"	f	language:Vim
+opts	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:opts()$/;"	f	language:Vim
+os	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/normalize-tags.py	/^import os, sys, time$/;"	i	language:Python
+os	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^import os, sys$/;"	i	language:Python
+pathjoin	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:pathjoin(...) abort$/;"	f	language:Vim
+pathogen#glob	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^function! pathogen#glob(pattern) abort " {{{1$/;"	f	language:Vim
+pathogen#glob_directories	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^function! pathogen#glob_directories(pattern) abort " {{{1$/;"	f	language:Vim
+pathogen#helptags	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^function! pathogen#helptags() " {{{1$/;"	f	language:Vim
+pathogen#join	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^function! pathogen#join(...) abort " {{{1$/;"	f	language:Vim
+pathogen#legacyjoin	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^function! pathogen#legacyjoin(...) abort " {{{1$/;"	f	language:Vim
+pathogen#runtime_append_all_bundles	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^function! pathogen#runtime_append_all_bundles(...) " {{{1$/;"	f	language:Vim
+pathogen#runtime_prepend_subdirectories	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^function! pathogen#runtime_prepend_subdirectories(path) " {{{1$/;"	f	language:Vim
+pathogen#separator	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^function! pathogen#separator() abort " {{{1$/;"	f	language:Vim
+pathogen#split	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^function! pathogen#split(path) abort " {{{1$/;"	f	language:Vim
+pathogen#uniq	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^function! pathogen#uniq(list) abort " {{{1$/;"	f	language:Vim
+pathsplit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:pathsplit(path) abort$/;"	f	language:Vim
+PeepOpen	/Users/tanjapislar/.vim/bundle/vim-peepopen/plugin/peepopen.vim	/^command! PeepOpen :call <SID>LaunchPeepOpenViaVim()$/;"	c	language:Vim
+Pick	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^command! -buffer -bar Pick   :call s:choose('pick')$/;"	c	language:Vim
+PluginEasyTags	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^augroup PluginEasyTags$/;"	a	language:Vim
+pluginEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:pluginEdit(cmd,...)$/;"	f	language:Vim
+pluginList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:pluginList(A,L,P)$/;"	f	language:Vim
+pop_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:pop_command()$/;"	f	language:Vim
+prephelp	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:prephelp()$/;"	f	language:Vim
+prep_cmdline	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:prep_cmdline(cfile, tagsfile, firstrun, arguments, context) " {{{3$/;"	f	language:Vim
+Preview	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Preview(bang,lnum,arg)$/;"	f	language:Vim
+process	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:process(string)$/;"	f	language:Vim
+ProcessedLine	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:ProcessedLine(uncomment, match, checkRx, replace)$/;"	f	language:Vim
+ProcessFile	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun s:ProcessFile(file, ft, ...)$/;"	f	language:Vim
+ProcessSnippet	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun s:ProcessSnippet(snip)$/;"	f	language:Vim
+push_chdir	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:push_chdir(...)$/;"	f	language:Vim
+python_available	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:python_available() " {{{2$/;"	f	language:Vim
+ragtag	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^  augroup ragtag$/;"	a	language:Vim
+RagtagInit	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! RagtagInit()$/;"	f	language:Vim
+Rails	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^command! -bar -bang -nargs=* -complete=dir Rails :if s:autoload()|call rails#new_app_command(<bang>0,<f-args>)|endif$/;"	c	language:Vim
+rails#app	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! rails#app(...)$/;"	f	language:Vim
+rails#buffer	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! rails#buffer(...)$/;"	f	language:Vim
+rails#cache_clear	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! rails#cache_clear(...)$/;"	f	language:Vim
+rails#camelize	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! rails#camelize(str)$/;"	f	language:Vim
+rails#log_syntax	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! rails#log_syntax()$/;"	f	language:Vim
+rails#new_app_command	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! rails#new_app_command(bang,...)$/;"	f	language:Vim
+rails#pluralize	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! rails#pluralize(word)$/;"	f	language:Vim
+rails#singularize	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! rails#singularize(word)$/;"	f	language:Vim
+rails#underscore	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! rails#underscore(str)$/;"	f	language:Vim
+RailsBufInit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! RailsBufInit(path)$/;"	f	language:Vim
+RailsFile	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! RailsFile()$/;"	f	language:Vim
+RailsFilePath	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! RailsFilePath()$/;"	f	language:Vim
+RailsFileType	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! RailsFileType()$/;"	f	language:Vim
+RailsFind	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:RailsFind()$/;"	f	language:Vim
+RailsHelpCommand	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! RailsHelpCommand(...)$/;"	f	language:Vim
+RailsIncludeexpr	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! RailsIncludeexpr()$/;"	f	language:Vim
+RailsIncludefind	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:RailsIncludefind(str,...)$/;"	f	language:Vim
+RailsNamedRoutes	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! RailsNamedRoutes()$/;"	f	language:Vim
+railsPluginAbolish	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^augroup railsPluginAbolish$/;"	a	language:Vim
+railsPluginAuto	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^augroup railsPluginAuto$/;"	a	language:Vim
+railsPluginDetect	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^augroup railsPluginDetect$/;"	a	language:Vim
+RailsRevision	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! RailsRevision()$/;"	f	language:Vim
+RailsRoot	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! RailsRoot()$/;"	f	language:Vim
+Rake	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Rake(bang,lnum,arg)$/;"	f	language:Vim
+re	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/highlight.py	/^import re$/;"	i	language:Python
+readable_absolute	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_absolute() dict abort$/;"	f	language:Vim
+readable_app	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_app() dict abort$/;"	f	language:Vim
+readable_calculate_file_type	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_calculate_file_type() dict abort$/;"	f	language:Vim
+readable_controller_name	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_controller_name(...) dict abort$/;"	f	language:Vim
+readable_default_rake_task	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_default_rake_task(lnum) dict abort$/;"	f	language:Vim
+readable_define_pattern	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_define_pattern() dict abort$/;"	f	language:Vim
+readable_end_of	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_end_of(lnum) dict abort$/;"	f	language:Vim
+readable_format	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_format(start) dict abort$/;"	f	language:Vim
+readable_last_method	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_last_method(start) dict abort$/;"	f	language:Vim
+readable_last_method_line	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_last_method_line(start) dict abort$/;"	f	language:Vim
+readable_last_opening_line	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_last_opening_line(start,pattern,limit) dict abort$/;"	f	language:Vim
+readable_line_count	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_line_count() dict abort$/;"	f	language:Vim
+readable_model_name	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_model_name(...) dict abort$/;"	f	language:Vim
+readable_preview_urls	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_preview_urls(lnum) dict abort$/;"	f	language:Vim
+readable_related	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_related(...) dict abort$/;"	f	language:Vim
+readable_relative	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_relative() dict abort$/;"	f	language:Vim
+readable_resolve_layout	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_resolve_layout(name, ...) dict abort$/;"	f	language:Vim
+readable_resolve_view	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_resolve_view(name,...) dict abort$/;"	f	language:Vim
+readable_spec	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_spec() dict abort$/;"	f	language:Vim
+readable_type_name	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readable_type_name(...) dict abort$/;"	f	language:Vim
+readfile	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:readfile(path,...)$/;"	f	language:Vim
+RebuildBufferList	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:RebuildBufferList(...)$/;"	f	language:Vim
+redraw	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:redraw()$/;"	f	language:Vim
+Refresh	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Refresh(bang)$/;"	f	language:Vim
+RefreshBuffer	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:RefreshBuffer()$/;"	f	language:Vim
+reindent	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:reindent() " {{{1$/;"	f	language:Vim
+Related	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Related(cmd,line1,line2,count,...)$/;"	f	language:Vim
+relglob	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:relglob(...)$/;"	f	language:Vim
+ReloadAllSnippets	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun! ReloadAllSnippets()$/;"	f	language:Vim
+ReloadSnippets	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun! ReloadSnippets(ft)$/;"	f	language:Vim
+Remove	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Remove(force)$/;"	f	language:Vim
+RemoveBuffer	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:RemoveBuffer(mode)$/;"	f	language:Vim
+RemoveSnippet	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun s:RemoveSnippet()$/;"	f	language:Vim
+repeat	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:repeat(str,cnt)$/;"	f	language:Vim
+repeat	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:repeat(str,count)$/;"	f	language:Vim
+ReplaceCmd	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:ReplaceCmd(cmd,...) abort$/;"	f	language:Vim
+repo	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo(...) abort$/;"	f	language:Vim
+repo_bare	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_bare() dict abort$/;"	f	language:Vim
+repo_dir	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_dir(...) dict abort$/;"	f	language:Vim
+repo_dirglob	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_dirglob(base) dict abort$/;"	f	language:Vim
+repo_git_chomp	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_git_chomp(...) dict abort$/;"	f	language:Vim
+repo_git_chomp_in_tree	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_git_chomp_in_tree(...) dict abort$/;"	f	language:Vim
+repo_git_command	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_git_command(...) dict abort$/;"	f	language:Vim
+repo_head_ref	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_head_ref() dict abort$/;"	f	language:Vim
+repo_keywordprg	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_keywordprg() dict abort$/;"	f	language:Vim
+repo_rev_parse	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_rev_parse(rev) dict abort$/;"	f	language:Vim
+repo_superglob	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_superglob(base) dict abort$/;"	f	language:Vim
+repo_translate	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_translate(spec) dict abort$/;"	f	language:Vim
+repo_tree	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:repo_tree(...) dict abort$/;"	f	language:Vim
+Reset	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:Reset()$/;"	f	language:Vim
+ResetAllSnippets	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun! ResetAllSnippets()$/;"	f	language:Vim
+resetomnicomplete	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:resetomnicomplete()$/;"	f	language:Vim
+ResetSnippets	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun! ResetSnippets(ft)$/;"	f	language:Vim
+resolve	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:resolve(filename) " {{{2$/;"	f	language:Vim
+ReSortListing	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:ReSortListing()$/;"	f	language:Vim
+Reword	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^command! -buffer -bar Reword :call s:choose('reword')$/;"	c	language:Vim
+Rooter	/Users/tanjapislar/.vim/bundle/vim-rooter/plugin/rooter.vim	/^command! Rooter :call <SID>ChangeToRootDirectory()$/;"	c	language:Vim
+rquote	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:rquote(str)$/;"	f	language:Vim
+RunMake	/Users/tanjapislar/.vim/bundle/vim-makegreen/plugin/makegreen.vim	/^function s:RunMake() "{{{1$/;"	f	language:Vim
+run_ctags	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:run_ctags(starttime, cfile, tagsfile, firstrun, cmdline) " {{{3$/;"	f	language:Vim
+S	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^      vmap  S    <Plug>VSurround$/;"	m	language:Vim
+s	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^      vmap  s    <Plug>Vsurround$/;"	m	language:Vim
+s:abstract_prototype	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^let s:abstract_prototype = {}$/;"	v	language:Vim
+s:aliases	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^let s:aliases = {}$/;"	v	language:Vim
+s:apps	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^  let s:apps = {}$/;"	v	language:Vim
+s:app_prototype	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let s:app_prototype = {}$/;"	v	language:Vim
+s:app_prototype	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let s:app_prototype.cache = s:cache_prototype$/;"	v	language:Vim
+s:buffer_prototype	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let s:buffer_prototype = {}$/;"	v	language:Vim
+s:buffer_prototype	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^let s:buffer_prototype = {}$/;"	v	language:Vim
+s:cache_prototype	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let s:cache_prototype = {'dict': {}}$/;"	v	language:Vim
+s:canonical_aliases	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^let s:canonical_aliases = {}$/;"	v	language:Vim
+s:cmap	/Users/tanjapislar/.vim/colors/pink.vim	/^    let s:cmap = [$/;"	v	language:Vim
+s:colors256	/Users/tanjapislar/.vim/colors/pink.vim	/^let s:colors256 = [$/;"	v	language:Vim
+s:colorvim7	/Users/tanjapislar/.vim/colors/pink.vim	/^let s:colorvim7 = [$/;"	v	language:Vim
+s:commands	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^let s:commands = []$/;"	v	language:Vim
+s:cpo_save	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^let s:cpo_save = &cpo$/;"	v	language:Vim
+s:cpo_save	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let s:cpo_save = &cpo$/;"	v	language:Vim
+s:cpo_save	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^let s:cpo_save = &cpo$/;"	v	language:Vim
+s:cpo_save	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^let s:cpo_save = &cpo$/;"	v	language:Vim
+s:cpo_save	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:cpo_save = &cpo$/;"	v	language:Vim
+s:cpo_save	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^let s:cpo_save = &cpo$/;"	v	language:Vim
+s:ctags_filetypes	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^let s:ctags_filetypes = []$/;"	v	language:Vim
+s:defaultComments	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^let s:defaultComments      = s:DefaultValue('comments')$/;"	v	language:Vim
+s:defaultCommentString	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^let s:defaultCommentString = s:DefaultValue('commentstring')$/;"	v	language:Vim
+s:did_snips_mappings	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/after/plugin/snipMate.vim	/^let s:did_snips_mappings = 1$/;"	v	language:Vim
+s:did_snip_helper	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/ftplugin/html_snip_helper.vim	/^let s:did_snip_helper = 1$/;"	v	language:Vim
+s:done_bundles	/Users/tanjapislar/.vim/autoload/pathogen.vim	/^let s:done_bundles = ''$/;"	v	language:Vim
+s:efm_backtrace	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let s:efm_backtrace='%D(in\\ %f),'$/;"	v	language:Vim
+s:enoimpl	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/open.vim	/^  let s:enoimpl = "open.vim %s: %s() hasn't been implemented for your platform! If you have suggestions, please contact peter@peterodding.com."$/;"	v	language:Vim
+s:file	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let s:file = expand('<sfile>:p')$/;"	v	language:Vim
+s:file_prototype	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let s:file_prototype = {}$/;"	v	language:Vim
+s:handlers	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/open.vim	/^  let s:handlers = ['gnome-open', 'kde-open', 'exo-open', 'xdg-open']$/;"	v	language:Vim
+s:has_reltime	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/timer.vim	/^let s:has_reltime = has('reltime')$/;"	v	language:Vim
+s:known_tagfiles	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^  let s:known_tagfiles = {}$/;"	v	language:Vim
+s:list	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/list.vim	/^  let s:list = ['a', 'B', 'e']$/;"	v	language:Vim
+s:menu_char_prefix	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:menu_char_prefix =$/;"	v	language:Vim
+s:MRUList	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^let s:MRUList = []$/;"	v	language:Vim
+s:MRU_Exclude_List	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^let s:MRU_Exclude_List = ["[BufExplorer]","__MRU_Files__"]$/;"	v	language:Vim
+s:msg	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^      let s:msg .= " installing the package named `exuberant-ctags':"$/;"	v	language:Vim
+s:msg	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^      let s:msg .= " On Ubuntu & Debian you can install Exuberant Ctags by"$/;"	v	language:Vim
+s:msg	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^      let s:msg .= " Please download & install Exuberant Ctags from http:\/\/ctags.sf.net"$/;"	v	language:Vim
+s:msg	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^      let s:msg .= " sudo apt-get install exuberant-ctags"$/;"	v	language:Vim
+s:msg	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^    let s:msg .= " or newer is required while you have version %s installed!"$/;"	v	language:Vim
+s:msg	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^    let s:msg = "easytags.vim %s: Plug-in not loaded because Exuberant Ctags 5.5"$/;"	v	language:Vim
+s:msg	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^    let s:msg = "easytags.vim %s: Plug-in not loaded because Exuberant Ctags isn't installed!"$/;"	v	language:Vim
+s:name	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^let s:name = '[BufExplorer]'$/;"	v	language:Vim
+s:nullCommentString	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^let s:nullCommentString    = '%s'$/;"	v	language:Vim
+s:originBuffer	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^let s:originBuffer = 0$/;"	v	language:Vim
+s:readable_prototype	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let s:readable_prototype = {}$/;"	v	language:Vim
+s:repos	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^let s:repos = {}$/;"	v	language:Vim
+s:repo_prototype	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^let s:repo_prototype = {}$/;"	v	language:Vim
+s:running	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^let s:running = 0$/;"	v	language:Vim
+s:save_cpo	/Users/tanjapislar/.vim/bundle/vim-makegreen/plugin/makegreen.vim	/^let s:save_cpo = &cpo$/;"	v	language:Vim
+s:save_cpo	/Users/tanjapislar/.vim/bundle/vim-peepopen/plugin/peepopen.vim	/^let s:save_cpo = &cpo$/;"	v	language:Vim
+s:save_cpo	/Users/tanjapislar/.vim/bundle/vim-rooter/plugin/rooter.vim	/^let s:save_cpo = &cpo$/;"	v	language:Vim
+s:save_cpo	/Users/tanjapislar/.vim/colors/pink.vim	/^let s:save_cpo = &cpo$/;"	v	language:Vim
+s:sid	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let s:sid = s:sub(maparg("<SID>xx"),'xx$','')$/;"	v	language:Vim
+s:snippets	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^let s:snippets = {} | let s:multi_snips = {}$/;"	v	language:Vim
+s:sort_by	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^let s:sort_by = ["number", "name", "fullpath", "mru", "extension"]$/;"	v	language:Vim
+s:splitMode	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^let s:splitMode = ""$/;"	v	language:Vim
+s:tabSpace	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^let s:tabSpace = []$/;"	v	language:Vim
+s:tagged_files	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^  let s:tagged_files = {}$/;"	v	language:Vim
+s:tagkinds	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^let s:tagkinds = {}$/;"	v	language:Vim
+s:tlist_app_name	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_app_name = "none"$/;"	v	language:Vim
+s:tlist_brief_help	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_brief_help = 1$/;"	v	language:Vim
+s:tlist_cur_file_idx	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_cur_file_idx = -1$/;"	v	language:Vim
+s:tlist_debug	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_debug = 0$/;"	v	language:Vim
+s:tlist_debug_file	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_debug_file = ''$/;"	v	language:Vim
+s:tlist_def_asm_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_asm_settings = 'asm;d:define;l:label;m:macro;t:type'$/;"	v	language:Vim
+s:tlist_def_aspperl_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_aspperl_settings = 'asp;f:function;s:sub;v:variable'$/;"	v	language:Vim
+s:tlist_def_aspvbs_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_aspvbs_settings = 'asp;f:function;s:sub;v:variable'$/;"	v	language:Vim
+s:tlist_def_awk_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_awk_settings = 'awk;f:function'$/;"	v	language:Vim
+s:tlist_def_beta_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_beta_settings = 'beta;f:fragment;s:slot;v:pattern'$/;"	v	language:Vim
+s:tlist_def_cobol_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_cobol_settings = 'cobol;d:data;f:file;g:group;p:paragraph;' .$/;"	v	language:Vim
+s:tlist_def_cpp_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_cpp_settings = 'c++;n:namespace;v:variable;d:macro;t:typedef;' .$/;"	v	language:Vim
+s:tlist_def_csh_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_csh_settings = 'sh;f:function'$/;"	v	language:Vim
+s:tlist_def_cs_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_cs_settings = 'c#;d:macro;t:typedef;n:namespace;c:class;' .$/;"	v	language:Vim
+s:tlist_def_c_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_c_settings = 'c;d:macro;g:enum;s:struct;u:union;t:typedef;' .$/;"	v	language:Vim
+s:tlist_def_eiffel_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_eiffel_settings = 'eiffel;c:class;f:feature'$/;"	v	language:Vim
+s:tlist_def_erlang_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_erlang_settings = 'erlang;d:macro;r:record;m:module;f:function'$/;"	v	language:Vim
+s:tlist_def_expect_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_expect_settings = 'tcl;c:class;f:method;p:procedure'$/;"	v	language:Vim
+s:tlist_def_fortran_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_fortran_settings = 'fortran;p:program;b:block data;' .$/;"	v	language:Vim
+s:tlist_def_html_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_html_settings = 'html;a:anchor;f:javascript function'$/;"	v	language:Vim
+s:tlist_def_javascript_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_javascript_settings = 'javascript;f:function'$/;"	v	language:Vim
+s:tlist_def_java_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_java_settings = 'java;p:package;c:class;i:interface;' .$/;"	v	language:Vim
+s:tlist_def_lisp_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_lisp_settings = 'lisp;f:function'$/;"	v	language:Vim
+s:tlist_def_lua_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_lua_settings = 'lua;f:function'$/;"	v	language:Vim
+s:tlist_def_make_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_make_settings = 'make;m:macro'$/;"	v	language:Vim
+s:tlist_def_pascal_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_pascal_settings = 'pascal;f:function;p:procedure'$/;"	v	language:Vim
+s:tlist_def_perl_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_perl_settings = 'perl;c:constant;l:label;p:package;s:subroutine'$/;"	v	language:Vim
+s:tlist_def_php_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_php_settings = 'php;c:class;d:constant;v:variable;f:function'$/;"	v	language:Vim
+s:tlist_def_python_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_python_settings = 'python;c:class;m:member;f:function'$/;"	v	language:Vim
+s:tlist_def_rexx_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_rexx_settings = 'rexx;s:subroutine'$/;"	v	language:Vim
+s:tlist_def_ruby_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_ruby_settings = 'ruby;c:class;f:method;F:function;' .$/;"	v	language:Vim
+s:tlist_def_scheme_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_scheme_settings = 'scheme;s:set;f:function'$/;"	v	language:Vim
+s:tlist_def_sh_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_sh_settings = 'sh;f:function'$/;"	v	language:Vim
+s:tlist_def_slang_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_slang_settings = 'slang;n:namespace;f:function'$/;"	v	language:Vim
+s:tlist_def_sml_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_sml_settings = 'sml;e:exception;c:functor;s:signature;' .$/;"	v	language:Vim
+s:tlist_def_sql_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_sql_settings = 'sql;c:cursor;F:field;P:package;r:record;' .$/;"	v	language:Vim
+s:tlist_def_tcl_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_tcl_settings = 'tcl;c:class;f:method;m:method;p:procedure'$/;"	v	language:Vim
+s:tlist_def_vera_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_vera_settings = 'vera;c:class;d:macro;e:enumerator;' .$/;"	v	language:Vim
+s:tlist_def_verilog_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_verilog_settings = 'verilog;m:module;c:constant;P:parameter;' .$/;"	v	language:Vim
+s:tlist_def_vim_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_vim_settings = 'vim;a:autocmds;v:variable;f:function'$/;"	v	language:Vim
+s:tlist_def_yacc_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_yacc_settings = 'yacc;l:label'$/;"	v	language:Vim
+s:tlist_def_zsh_settings	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_def_zsh_settings = 'sh;f:function'$/;"	v	language:Vim
+s:tlist_file_count	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_file_count = 0$/;"	v	language:Vim
+s:tlist_file_lnum_idx_cache	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_file_lnum_idx_cache = -1$/;"	v	language:Vim
+s:tlist_file_names	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_file_names=''$/;"	v	language:Vim
+s:tlist_file_name_idx_cache	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_file_name_idx_cache = -1$/;"	v	language:Vim
+s:tlist_ftype_count	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_ftype_count = 0$/;"	v	language:Vim
+s:tlist_menu_empty	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_menu_empty = 1$/;"	v	language:Vim
+s:tlist_msg	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    let s:tlist_msg = ''$/;"	v	language:Vim
+s:tlist_removed_flist	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_removed_flist = ""$/;"	v	language:Vim
+s:tlist_sid	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    let s:tlist_sid = substitute(maparg('<SID>xx'), '<SNR>\\(\\d\\+_\\)xx$',$/;"	v	language:Vim
+s:Tlist_Skip_Refresh	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:Tlist_Skip_Refresh = 0$/;"	v	language:Vim
+s:tlist_winsize_chgd	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_winsize_chgd = -1$/;"	v	language:Vim
+s:tlist_win_maximized	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^let s:tlist_win_maximized = 0$/;"	v	language:Vim
+s:types	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^let s:types = {"fullname": ':p', "path": ':p:h', "relativename": ':~:.', "relativepath": ':~:.:h', "shortname": ':t'}$/;"	v	language:Vim
+s:units	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/timer.vim	/^let s:units = [['day', 60 * 60 * 24], ['hour', 60 * 60], ['minute', 60], ['second', 1]]$/;"	v	language:Vim
+s:version	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/open.vim	/^  let s:version = '1.1'$/;"	v	language:Vim
+s:view_types	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^let s:view_types = split('rhtml,erb,rxml,builder,rjs,haml',',')$/;"	v	language:Vim
+s:vim_filetypes	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^let s:vim_filetypes = []$/;"	v	language:Vim
+s:windows_compatible	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^let s:windows_compatible = has('win32') || has('win64')$/;"	v	language:Vim
+save_by_filetype	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! s:save_by_filetype(filter_tags, headers, entries, context)$/;"	f	language:Vim
+scanlineforuris	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:scanlineforuris(line)$/;"	f	language:Vim
+schemaEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:schemaEdit(cmd,...)$/;"	f	language:Vim
+schemaList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:schemaList(A,L,P)$/;"	f	language:Vim
+SelectBuffer	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:SelectBuffer(...)$/;"	f	language:Vim
+selectiveexpand	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:selectiveexpand(pat,good,default,...)$/;"	f	language:Vim
+SelectWord	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun s:SelectWord()$/;"	f	language:Vim
+Set	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:Set(var, default)$/;"	f	language:Vim
+Set	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:Set(bang,...)$/;"	f	language:Vim
+SetBasePath	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:SetBasePath()$/;"	f	language:Vim
+setopt	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:setopt(opt,val)$/;"	f	language:Vim
+SetOptDefault	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/plugin/rails.vim	/^function! s:SetOptDefault(opt,val)$/;"	f	language:Vim
+Setup	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:Setup()$/;"	f	language:Vim
+SetupSyntax	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:SetupSyntax()$/;"	f	language:Vim
+shellesc	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:shellesc(arg) abort$/;"	f	language:Vim
+shellslash	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:shellslash(path)$/;"	f	language:Vim
+ShouldIgnore	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:ShouldIgnore(buf)$/;"	f	language:Vim
+ShowAvailableSnips	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun! ShowAvailableSnips()$/;"	f	language:Vim
+show_message	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/msg.vim	/^function! s:show_message(hlgroup, args)$/;"	f	language:Vim
+sname	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:sname()$/;"	f	language:Vim
+snipMate#expandSnip	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun snipMate#expandSnip(snip, col)$/;"	f	language:Vim
+snipMate#jumpTabStop	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun snipMate#jumpTabStop(backwards)$/;"	f	language:Vim
+snippets_dir	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^	let snippets_dir = substitute(globpath(&rtp, 'snippets\/'), "\\n", ',', 'g')$/;"	v	language:Vim
+sortedfiles	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^sortedfiles = sorted([(s, n) for (n, s) in counters.iteritems()], reverse=True)$/;"	v	language:Python
+SortListing	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:SortListing()$/;"	f	language:Vim
+SortReverse	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:SortReverse()$/;"	f	language:Vim
+SortSelect	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:SortSelect()$/;"	f	language:Vim
+specEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:specEdit(cmd,...)$/;"	f	language:Vim
+specList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:specList(A,L,P)$/;"	f	language:Vim
+SPrintF	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:SPrintF(string, ...)$/;"	f	language:Vim
+Squash	/Users/tanjapislar/.vim/bundle/vim-git/ftplugin/gitrebase.vim	/^command! -buffer -bar Squash :call s:choose('squash')$/;"	c	language:Vim
+StageDiff	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:StageDiff() abort$/;"	f	language:Vim
+StagePatch	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:StagePatch(lnum1,lnum2) abort$/;"	f	language:Vim
+StageToggle	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:StageToggle(lnum1,lnum2) abort$/;"	f	language:Vim
+StartRx	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! s:StartRx(pos)$/;"	f	language:Vim
+startswith	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:startswith(string,prefix)$/;"	f	language:Vim
+Status	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Status() abort$/;"	f	language:Vim
+StringDecode	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:StringDecode(str)$/;"	f	language:Vim
+StringEncode	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:StringEncode(str)$/;"	f	language:Vim
+stylesheetEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:stylesheetEdit(cmd,...)$/;"	f	language:Vim
+stylesheetList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:stylesheetList(A,L,P)$/;"	f	language:Vim
+stylesheetTag	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:stylesheetTag()$/;"	f	language:Vim
+sub	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:sub(str,pat,rep)$/;"	f	language:Vim
+sub	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:sub(str,pat,rep) abort$/;"	f	language:Vim
+subtype	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:subtype()$/;"	f	language:Vim
+synname	/Users/tanjapislar/.vim/bundle/endwise/plugin/endwise.vim	/^function! s:synname()$/;"	f	language:Vim
+sys	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/highlight.py	/^import sys$/;"	i	language:Python
+sys	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/normalize-tags.py	/^import os, sys, time$/;"	i	language:Python
+sys	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^import os, sys$/;"	i	language:Python
+TabEnter	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:TabEnter()$/;"	f	language:Vim
+tagextras	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:tagextras()$/;"	f	language:Vim
+TagList_IsValid	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! TagList_IsValid()$/;"	f	language:Vim
+TagList_Start	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! TagList_Start()$/;"	f	language:Vim
+TagList_title	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    let TagList_title = "__Tag_List__"$/;"	v	language:Vim
+TagList_WrapUp	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! TagList_WrapUp()$/;"	f	language:Vim
+TagsByFileType	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^command! -bang TagsByFileType call xolox#easytags#by_filetype(<q-bang> == '!')$/;"	c	language:Vim
+tagsfile	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^    tagsfile = arg$/;"	v	language:Python
+tagsfile	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^tagsfile = '~\/.vimtags'$/;"	v	language:Python
+taskEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:taskEdit(cmd,...)$/;"	f	language:Vim
+taskList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:taskList(A,L,P)$/;"	f	language:Vim
+TComment	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^command! -bang -range -nargs=* TComment keepjumps call tcomment#Comment(<line1>, <line2>, 'G', "<bang>", <f-args>)$/;"	c	language:Vim
+tcomment#CollectFileTypes	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! tcomment#CollectFileTypes()$/;"	f	language:Vim
+tcomment#Comment	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! tcomment#Comment(beg, end, ...)$/;"	f	language:Vim
+tcomment#CommentAs	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! tcomment#CommentAs(beg, end, commentAnyway, filetype, ...)$/;"	f	language:Vim
+tcomment#FileTypes	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! tcomment#FileTypes(ArgLead, CmdLine, CursorPos)$/;"	f	language:Vim
+tcomment#Operator	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! tcomment#Operator(type, ...) "{{{3$/;"	f	language:Vim
+tcomment#OperatorAnyway	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! tcomment#OperatorAnyway(type) "{{{3$/;"	f	language:Vim
+tcomment#OperatorLine	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! tcomment#OperatorLine(type) "{{{3$/;"	f	language:Vim
+tcomment#OperatorLineAnyway	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/autoload/tcomment.vim	/^function! tcomment#OperatorLineAnyway(type) "{{{3$/;"	f	language:Vim
+TCommentAs	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^command! -bang -complete=customlist,tcomment#FileTypes -range -nargs=+ TCommentAs $/;"	c	language:Vim
+TCommentBlock	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^command! -bang -range -nargs=* TCommentBlock keepjumps call tcomment#Comment(<line1>, <line2>, 'B', "<bang>", <f-args>)$/;"	c	language:Vim
+TCommentDefineType	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^function! TCommentDefineType(name, commentstring)$/;"	f	language:Vim
+TCommentInline	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^command! -bang -range -nargs=* TCommentInline keepjumps call tcomment#Comment(<line1>, <line2>, 'I', "<bang>", <f-args>)$/;"	c	language:Vim
+TCommentMaybeInline	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^command! -bang -range -nargs=* TCommentMaybeInline keepjumps call tcomment#Comment(<line1>, <line2>, 'i', "<bang>", <f-args>)$/;"	c	language:Vim
+TCommentRight	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^command! -bang -range -nargs=* TCommentRight keepjumps call tcomment#Comment(<line1>, <line2>, 'R', "<bang>", <f-args>)$/;"	c	language:Vim
+TCommentTypeExists	/Users/tanjapislar/.vim/bundle/tsaleh-vim-tcomment/plugin/tComment.vim	/^function! TCommentTypeExists(name)$/;"	f	language:Vim
+test	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/list.vim	/^  function! s:test(value, expected)$/;"	f	language:Vim
+TheCWord	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:TheCWord()$/;"	f	language:Vim
+throw	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:throw(string) abort$/;"	f	language:Vim
+time	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/normalize-tags.py	/^import os, sys, time$/;"	i	language:Python
+Tlist	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar Tlist TlistToggle$/;"	c	language:Vim
+TlistAddFiles	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=+ -complete=file TlistAddFiles$/;"	c	language:Vim
+TlistAddFilesRecursive	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=+ -complete=dir TlistAddFilesRecursive$/;"	c	language:Vim
+TlistClose	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistClose call s:Tlist_Window_Close()$/;"	c	language:Vim
+TlistDebug	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=? -complete=file -bar TlistDebug$/;"	c	language:Vim
+TlistHighlightTag	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistHighlightTag call s:Tlist_Window_Highlight_Tag($/;"	c	language:Vim
+TlistLock	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -bar TlistLock let Tlist_Auto_Update=0$/;"	c	language:Vim
+TlistMessages	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistMessages call s:Tlist_Debug_Show()$/;"	c	language:Vim
+TlistOpen	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistOpen call s:Tlist_Window_Open()$/;"	c	language:Vim
+TlistSessionLoad	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=* -complete=file TlistSessionLoad$/;"	c	language:Vim
+TlistSessionSave	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=* -complete=file TlistSessionSave$/;"	c	language:Vim
+TlistShowPrototype	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=* -complete=buffer TlistShowPrototype$/;"	c	language:Vim
+TlistShowTag	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=* -complete=buffer TlistShowTag$/;"	c	language:Vim
+TlistSync	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistSync TlistHighlightTag$/;"	c	language:Vim
+TlistToggle	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistToggle call s:Tlist_Window_Toggle()$/;"	c	language:Vim
+TlistUndebug	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistUndebug  call s:Tlist_Debug_Disable()$/;"	c	language:Vim
+TlistUnlock	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -bar TlistUnlock let Tlist_Auto_Update=1$/;"	c	language:Vim
+TlistUpdate	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistUpdate call s:Tlist_Update_Current_File()$/;"	c	language:Vim
+Tlist_Add_Files	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Add_Files(...)$/;"	f	language:Vim
+Tlist_Add_Files_Recursive	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Add_Files_Recursive(dir, ...)$/;"	f	language:Vim
+Tlist_Auto_Highlight_Tag	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Auto_Highlight_Tag = 1$/;"	v	language:Vim
+Tlist_Auto_Open	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Auto_Open = 0$/;"	v	language:Vim
+Tlist_Auto_Update	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Auto_Update = 1$/;"	v	language:Vim
+Tlist_Ballon_Expr	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! Tlist_Ballon_Expr()$/;"	f	language:Vim
+Tlist_Buffer_Removed	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Buffer_Removed(filename)$/;"	f	language:Vim
+Tlist_Change_Sort	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Change_Sort(caller, action, sort_type)$/;"	f	language:Vim
+Tlist_Close_On_Select	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Close_On_Select = 0$/;"	v	language:Vim
+Tlist_Compact_Format	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Compact_Format = 0$/;"	v	language:Vim
+Tlist_Ctags_Cmd	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^            let Tlist_Ctags_Cmd = 'ctags'$/;"	v	language:Vim
+Tlist_Ctags_Cmd	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^            let Tlist_Ctags_Cmd = 'ctags.exe'$/;"	v	language:Vim
+Tlist_Ctags_Cmd	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^            let Tlist_Ctags_Cmd = 'exctags'$/;"	v	language:Vim
+Tlist_Ctags_Cmd	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^            let Tlist_Ctags_Cmd = 'exuberant-ctags'$/;"	v	language:Vim
+Tlist_Ctags_Cmd	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^            let Tlist_Ctags_Cmd = 'tags'$/;"	v	language:Vim
+Tlist_Debug_Disable	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Debug_Disable(...)$/;"	f	language:Vim
+Tlist_Debug_Enable	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Debug_Enable(...)$/;"	f	language:Vim
+Tlist_Debug_Show	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Debug_Show()$/;"	f	language:Vim
+Tlist_Detect_Filetype	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Detect_Filetype(fname)$/;"	f	language:Vim
+Tlist_Discard_FileInfo	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Discard_FileInfo(fidx)$/;"	f	language:Vim
+Tlist_Discard_TagInfo	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Discard_TagInfo(fidx)$/;"	f	language:Vim
+Tlist_Display_Prototype	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Display_Prototype = 0$/;"	v	language:Vim
+Tlist_Display_Tag_Scope	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Display_Tag_Scope = 1$/;"	v	language:Vim
+Tlist_Enable_Fold_Column	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Enable_Fold_Column = 1$/;"	v	language:Vim
+Tlist_Exe_Cmd_No_Acmds	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Exe_Cmd_No_Acmds(cmd)$/;"	f	language:Vim
+Tlist_Exit_OnlyWindow	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Exit_OnlyWindow = 0$/;"	v	language:Vim
+Tlist_Extract_Tagtype	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Extract_Tagtype(tag_line)$/;"	f	language:Vim
+Tlist_Extract_Tag_Scope	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Extract_Tag_Scope(tag_line)$/;"	f	language:Vim
+Tlist_FileType_Init	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_FileType_Init(ftype)$/;"	f	language:Vim
+Tlist_File_Fold_Auto_Close	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_File_Fold_Auto_Close = 0$/;"	v	language:Vim
+Tlist_Find_Nearest_Tag_Idx	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Find_Nearest_Tag_Idx(fidx, linenum)$/;"	f	language:Vim
+Tlist_GainFocus_On_ToggleOpen	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_GainFocus_On_ToggleOpen = 0$/;"	v	language:Vim
+Tlist_Get_Buffer_Filetype	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Get_Buffer_Filetype(bnum)$/;"	f	language:Vim
+Tlist_Get_File_Index	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Get_File_Index(fname)$/;"	f	language:Vim
+Tlist_Get_Tagname_By_Line	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! Tlist_Get_Tagname_By_Line(...)$/;"	f	language:Vim
+Tlist_Get_Tag_Linenum	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Get_Tag_Linenum(fidx, tidx)$/;"	f	language:Vim
+Tlist_Get_Tag_Prototype	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Get_Tag_Prototype(fidx, tidx)$/;"	f	language:Vim
+Tlist_Get_Tag_Prototype_By_Line	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! Tlist_Get_Tag_Prototype_By_Line(...)$/;"	f	language:Vim
+Tlist_Get_Tag_SearchPat	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Get_Tag_SearchPat(fidx, tidx)$/;"	f	language:Vim
+Tlist_Get_Tag_Type_By_Tag	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Get_Tag_Type_By_Tag(fidx, tidx)$/;"	f	language:Vim
+Tlist_Highlight_Tag_On_BufEnter	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Highlight_Tag_On_BufEnter = 1$/;"	v	language:Vim
+Tlist_Inc_Winwidth	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^            let Tlist_Inc_Winwidth = 0$/;"	v	language:Vim
+Tlist_Inc_Winwidth	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^            let Tlist_Inc_Winwidth = 1$/;"	v	language:Vim
+Tlist_Init_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Init_File(filename, ftype)$/;"	f	language:Vim
+Tlist_Log_Msg	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Log_Msg(msg)$/;"	f	language:Vim
+Tlist_Max_Submenu_Items	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Max_Submenu_Items = 20$/;"	v	language:Vim
+Tlist_Max_Tag_Length	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Max_Tag_Length = 10$/;"	v	language:Vim
+Tlist_Menu_Add_Base_Menu	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Add_Base_Menu()$/;"	f	language:Vim
+Tlist_Menu_File_Refresh	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_File_Refresh(fidx)$/;"	f	language:Vim
+Tlist_Menu_Get_Tag_Type_Cmd	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Get_Tag_Type_Cmd(fidx, ftype, add_ttype_name, ttype_idx)$/;"	f	language:Vim
+Tlist_Menu_Init	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Init()$/;"	f	language:Vim
+Tlist_Menu_Jump_To_Tag	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Jump_To_Tag(tidx)$/;"	f	language:Vim
+Tlist_Menu_Refresh	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Refresh()$/;"	f	language:Vim
+Tlist_Menu_Remove_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Remove_File()$/;"	f	language:Vim
+Tlist_Menu_Update_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Update_File(clear_menu)$/;"	f	language:Vim
+Tlist_Parse_Tagline	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Parse_Tagline(tag_line)$/;"	f	language:Vim
+Tlist_Post_Close_Cleanup	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Post_Close_Cleanup()$/;"	f	language:Vim
+Tlist_Process_Dir	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Process_Dir(dir_name, pat)$/;"	f	language:Vim
+Tlist_Process_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Process_File(filename, ftype)$/;"	f	language:Vim
+Tlist_Process_Filelist	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Process_Filelist(file_names)$/;"	f	language:Vim
+Tlist_Process_File_Always	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Process_File_Always = 0$/;"	v	language:Vim
+Tlist_Refresh	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Refresh()$/;"	f	language:Vim
+Tlist_Refresh_Folds	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Refresh_Folds()$/;"	f	language:Vim
+Tlist_Remove_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Remove_File(file_idx, user_request)$/;"	f	language:Vim
+Tlist_Session_Load	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Session_Load(...)$/;"	f	language:Vim
+Tlist_Session_Save	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Session_Save(...)$/;"	f	language:Vim
+Tlist_Set_App	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! Tlist_Set_App(name)$/;"	f	language:Vim
+Tlist_Show_Menu	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Show_Menu = 0$/;"	v	language:Vim
+Tlist_Show_One_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Show_One_File = 0$/;"	v	language:Vim
+Tlist_Skip_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Skip_File(filename, ftype)$/;"	f	language:Vim
+Tlist_Sort_Type	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Sort_Type = 'order'$/;"	v	language:Vim
+Tlist_Update_Current_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Update_Current_File()$/;"	f	language:Vim
+Tlist_Update_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! Tlist_Update_File(filename, ftype)$/;"	f	language:Vim
+Tlist_Update_Remove_List	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Update_Remove_List(filename, add)$/;"	f	language:Vim
+Tlist_User_Removed_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_User_Removed_File(filename)$/;"	f	language:Vim
+Tlist_Use_Horiz_Window	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Use_Horiz_Window = 0$/;"	v	language:Vim
+Tlist_Use_Right_Window	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Use_Right_Window = 0$/;"	v	language:Vim
+Tlist_Use_SingleClick	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_Use_SingleClick = 0$/;"	v	language:Vim
+Tlist_Vim_Session_Load	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Vim_Session_Load()$/;"	f	language:Vim
+Tlist_Warning_Msg	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Warning_Msg(msg)$/;"	f	language:Vim
+Tlist_Window_Check_Auto_Open	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Check_Auto_Open()$/;"	f	language:Vim
+Tlist_Window_Check_Width	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Check_Width()$/;"	f	language:Vim
+Tlist_Window_Close	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Close()$/;"	f	language:Vim
+Tlist_Window_Create	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Create()$/;"	f	language:Vim
+Tlist_Window_Display_Help	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Display_Help()$/;"	f	language:Vim
+Tlist_Window_Exit_Only_Window	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Exit_Only_Window()$/;"	f	language:Vim
+Tlist_Window_Get_File_Index_By_Linenum	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Get_File_Index_By_Linenum(lnum)$/;"	f	language:Vim
+Tlist_Window_Get_Tag_Index	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Get_Tag_Index(fidx, lnum)$/;"	f	language:Vim
+Tlist_Window_Get_Tag_Type_By_Linenum	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Get_Tag_Type_By_Linenum(fidx, lnum)$/;"	f	language:Vim
+Tlist_Window_Goto_Window	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Goto_Window()$/;"	f	language:Vim
+Tlist_Window_Highlight_Line	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Highlight_Line()$/;"	f	language:Vim
+Tlist_Window_Highlight_Tag	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Highlight_Tag(filename, cur_lnum, cntx, center)$/;"	f	language:Vim
+Tlist_Window_Init	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Init()$/;"	f	language:Vim
+Tlist_Window_Jump_To_Tag	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Jump_To_Tag(win_ctrl)$/;"	f	language:Vim
+Tlist_Window_Mark_File_Window	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Mark_File_Window()$/;"	f	language:Vim
+Tlist_Window_Move_To_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Move_To_File(dir)$/;"	f	language:Vim
+Tlist_Window_Open	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Open()$/;"	f	language:Vim
+Tlist_Window_Open_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Open_File(win_ctrl, filename, tagpat)$/;"	f	language:Vim
+Tlist_Window_Open_File_Fold	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Open_File_Fold(acmd_bufnr)$/;"	f	language:Vim
+Tlist_Window_Refresh	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Refresh()$/;"	f	language:Vim
+Tlist_Window_Refresh_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Refresh_File(filename, ftype)$/;"	f	language:Vim
+Tlist_Window_Remove_File_From_Display	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Remove_File_From_Display(fidx)$/;"	f	language:Vim
+Tlist_Window_Show_Info	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Show_Info()$/;"	f	language:Vim
+Tlist_Window_Toggle	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Toggle()$/;"	f	language:Vim
+Tlist_Window_Toggle_Help_Text	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Toggle_Help_Text()$/;"	f	language:Vim
+Tlist_Window_Update_File	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Update_File()$/;"	f	language:Vim
+Tlist_Window_Update_Line_Offsets	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Update_Line_Offsets(start_idx, increment, offset)$/;"	f	language:Vim
+Tlist_Window_Zoom	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Zoom()$/;"	f	language:Vim
+Tlist_WinHeight	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_WinHeight = 10$/;"	v	language:Vim
+Tlist_WinWidth	/Users/tanjapislar/.vim/bundle/vim-taglist/plugin/taglist.vim	/^        let Tlist_WinWidth = 30$/;"	v	language:Vim
+ToggleFindActive	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:ToggleFindActive()$/;"	f	language:Vim
+ToggleHelp	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:ToggleHelp()$/;"	f	language:Vim
+ToggleOnlyOneTab	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:ToggleOnlyOneTab()$/;"	f	language:Vim
+ToggleShowRelativePath	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:ToggleShowRelativePath()$/;"	f	language:Vim
+ToggleShowTabBuffer	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:ToggleShowTabBuffer()$/;"	f	language:Vim
+ToggleShowUnlisted	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:ToggleShowUnlisted()$/;"	f	language:Vim
+ToggleSplitOutPathName	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:ToggleSplitOutPathName()$/;"	f	language:Vim
+toggleurlescape	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:toggleurlescape()$/;"	f	language:Vim
+togglexmlescape	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:togglexmlescape()$/;"	f	language:Vim
+topfiles	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^    topfiles = int(arg)$/;"	v	language:Python
+topfiles	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/why-so-slow.py	/^topfiles = 10$/;"	v	language:Python
+Transform	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:Transform(algorithm,type)$/;"	f	language:Vim
+TransformOpfunc	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:TransformOpfunc(type)$/;"	f	language:Vim
+TransformSetup	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:TransformSetup(algorithm)$/;"	f	language:Vim
+TriggerSnippet	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/plugin/snipMate.vim	/^fun! TriggerSnippet()$/;"	f	language:Vim
+try	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:try(cmd) abort$/;"	f	language:Vim
+unescape	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/option.vim	/^function! s:unescape(s)$/;"	f	language:Vim
+unescape_tags	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/option.vim	/^function! s:unescape_tags(s)$/;"	f	language:Vim
+uniq	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:uniq(list)$/;"	f	language:Vim
+unittestEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:unittestEdit(cmd,...)$/;"	f	language:Vim
+unittestList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:unittestList(A,L,P)$/;"	f	language:Vim
+UpdateChangedSnip	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun s:UpdateChangedSnip(entering)$/;"	f	language:Vim
+UpdateHelpStatus	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:UpdateHelpStatus()$/;"	f	language:Vim
+UpdatePlaceholderTabStops	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun s:UpdatePlaceholderTabStops()$/;"	f	language:Vim
+UpdateTabStops	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun s:UpdateTabStops()$/;"	f	language:Vim
+UpdateTags	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^command! -bar -bang -nargs=* -complete=file UpdateTags call xolox#easytags#update(0, <q-bang> == '!', [<f-args>])$/;"	c	language:Vim
+UpdateVars	/Users/tanjapislar/.vim/bundle/msanders-snipmate.vim/autoload/snipMate.vim	/^fun s:UpdateVars()$/;"	f	language:Vim
+UrlDecode	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:UrlDecode(str)$/;"	f	language:Vim
+urlencode	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:urlencode(char)$/;"	f	language:Vim
+UrlEncode	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:UrlEncode(str)$/;"	f	language:Vim
+urlmap	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:urlmap(char)$/;"	f	language:Vim
+urltab	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:urltab(htmlesc)$/;"	f	language:Vim
+urlv	/Users/tanjapislar/.vim/bundle/tpope-vim-ragtag/plugin/ragtag.vim	/^function! s:urlv()$/;"	f	language:Vim
+VersionToNumber	/Users/tanjapislar/.vim/bundle/vim-easytags/plugin/easytags.vim	/^function! s:VersionToNumber(s)$/;"	f	language:Vim
+viewEdit	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:viewEdit(cmd,...)$/;"	f	language:Vim
+viewList	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:viewList(A,L,P)$/;"	f	language:Vim
+vim	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/highlight.py	/^import vim$/;"	i	language:Python
+warn	/Users/tanjapislar/.vim/bundle/tpope-vim-rails/autoload/rails.vim	/^function! s:warn(str)$/;"	f	language:Vim
+warn	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:warn(str)$/;"	f	language:Vim
+Warning	/Users/tanjapislar/.vim/bundle/bufexplorer/plugin/bufexplorer.vim	/^function! s:Warning(msg)$/;"	f	language:Vim
+wrap	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:wrap(string,char,type,...)$/;"	f	language:Vim
+wrapreg	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^function! s:wrapreg(reg,char,...)$/;"	f	language:Vim
+Write	/Users/tanjapislar/.vim/bundle/vim-fugitive/plugin/fugitive.vim	/^function! s:Write(force,...) abort$/;"	f	language:Vim
+X	/Users/tanjapislar/.vim/colors/vividchalk.vim	/^fun! s:X(a)$/;"	f	language:Vim
+XmlDecode	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:XmlDecode(str)$/;"	f	language:Vim
+XmlEncode	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:XmlEncode(str)$/;"	f	language:Vim
+XmlEntityDecode	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^function! s:XmlEntityDecode(str)$/;"	f	language:Vim
+xolox#easytags#alias_filetypes	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#alias_filetypes(...) " {{{2$/;"	f	language:Vim
+xolox#easytags#autoload	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#autoload(event) " {{{2$/;"	f	language:Vim
+xolox#easytags#by_filetype	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#by_filetype(undo) " {{{2$/;"	f	language:Vim
+xolox#easytags#define_tagkind	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#define_tagkind(object) " {{{2$/;"	f	language:Vim
+xolox#easytags#file_has_tags	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#file_has_tags(filename) " {{{2$/;"	f	language:Vim
+xolox#easytags#get_tagsfile	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#get_tagsfile() " {{{2$/;"	f	language:Vim
+xolox#easytags#highlight	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#highlight() " {{{2$/;"	f	language:Vim
+xolox#easytags#map_filetypes	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#map_filetypes(vim_ft, ctags_ft) " {{{2$/;"	f	language:Vim
+xolox#easytags#parse_entries	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#parse_entries(lines) " {{{2$/;"	f	language:Vim
+xolox#easytags#parse_entry	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#parse_entry(line) " {{{2$/;"	f	language:Vim
+xolox#easytags#read_tagsfile	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#read_tagsfile(tagsfile) " {{{2$/;"	f	language:Vim
+xolox#easytags#register	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#register(global) " {{{2$/;"	f	language:Vim
+xolox#easytags#supported_filetypes	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#supported_filetypes() " {{{2$/;"	f	language:Vim
+xolox#easytags#to_ctags_ft	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#to_ctags_ft(vim_ft) " {{{2$/;"	f	language:Vim
+xolox#easytags#to_vim_ft	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#to_vim_ft(ctags_ft) " {{{2$/;"	f	language:Vim
+xolox#easytags#update	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#update(silent, filter_tags, filenames) " {{{2$/;"	f	language:Vim
+xolox#easytags#write_tagsfile	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/easytags.vim	/^function! xolox#easytags#write_tagsfile(tagsfile, headers, entries) " {{{2$/;"	f	language:Vim
+xolox#misc#buffer#is_empty	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/buffer.vim	/^function! xolox#misc#buffer#is_empty()$/;"	f	language:Vim
+xolox#misc#buffer#lock	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/buffer.vim	/^function! xolox#misc#buffer#lock()$/;"	f	language:Vim
+xolox#misc#buffer#prepare	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/buffer.vim	/^function! xolox#misc#buffer#prepare(bufname)$/;"	f	language:Vim
+xolox#misc#buffer#unlock	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/buffer.vim	/^function! xolox#misc#buffer#unlock()$/;"	f	language:Vim
+xolox#misc#complete#keywords	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/complete.vim	/^function! xolox#misc#complete#keywords(arglead, cmdline, cursorpos)$/;"	f	language:Vim
+xolox#misc#escape#pattern	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/escape.vim	/^function! xolox#misc#escape#pattern(string)$/;"	f	language:Vim
+xolox#misc#escape#shell	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/escape.vim	/^function! xolox#misc#escape#shell(string)$/;"	f	language:Vim
+xolox#misc#escape#substitute	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/escape.vim	/^function! xolox#misc#escape#substitute(string)$/;"	f	language:Vim
+xolox#misc#list#binsert	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/list.vim	/^function! xolox#misc#list#binsert(list, value, ...)$/;"	f	language:Vim
+xolox#misc#list#unique	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/list.vim	/^function! xolox#misc#list#unique(list)$/;"	f	language:Vim
+xolox#misc#msg#debug	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/msg.vim	/^function! xolox#misc#msg#debug(...)$/;"	f	language:Vim
+xolox#misc#msg#info	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/msg.vim	/^function! xolox#misc#msg#info(...)$/;"	f	language:Vim
+xolox#misc#msg#warn	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/msg.vim	/^function! xolox#misc#msg#warn(...)$/;"	f	language:Vim
+xolox#misc#open#file	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/open.vim	/^function! xolox#misc#open#file(path, ...)$/;"	f	language:Vim
+xolox#misc#open#url	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/open.vim	/^function! xolox#misc#open#url(url)$/;"	f	language:Vim
+xolox#misc#option#eval_tags	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/option.vim	/^function! xolox#misc#option#eval_tags(value, ...)$/;"	f	language:Vim
+xolox#misc#option#get	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/option.vim	/^function! xolox#misc#option#get(name, ...)$/;"	f	language:Vim
+xolox#misc#option#join	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/option.vim	/^function! xolox#misc#option#join(values)$/;"	f	language:Vim
+xolox#misc#option#join_tags	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/option.vim	/^function! xolox#misc#option#join_tags(values)$/;"	f	language:Vim
+xolox#misc#option#split	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/option.vim	/^function! xolox#misc#option#split(value)$/;"	f	language:Vim
+xolox#misc#option#split_tags	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/option.vim	/^function! xolox#misc#option#split_tags(value)$/;"	f	language:Vim
+xolox#misc#os#exec	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/os.vim	/^function! xolox#misc#os#exec(cmdline, ...)$/;"	f	language:Vim
+xolox#misc#os#is_win	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/os.vim	/^function! xolox#misc#os#is_win()$/;"	f	language:Vim
+xolox#misc#path#absolute	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^function! xolox#misc#path#absolute(path)$/;"	f	language:Vim
+xolox#misc#path#commonprefix	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^function! xolox#misc#path#commonprefix(paths)$/;"	f	language:Vim
+xolox#misc#path#decode	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^function! xolox#misc#path#decode(encoded_path)$/;"	f	language:Vim
+xolox#misc#path#encode	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^function! xolox#misc#path#encode(path)$/;"	f	language:Vim
+xolox#misc#path#equals	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^  function! xolox#misc#path#equals(a, b)$/;"	f	language:Vim
+xolox#misc#path#equals	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^  function! xolox#misc#path#equals(a, b)$/;"	f	language:Vim
+xolox#misc#path#is_relative	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^function! xolox#misc#path#is_relative(path)$/;"	f	language:Vim
+xolox#misc#path#join	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^function! xolox#misc#path#join(parts)$/;"	f	language:Vim
+xolox#misc#path#merge	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^function! xolox#misc#path#merge(parent, child, ...)$/;"	f	language:Vim
+xolox#misc#path#relative	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^function! xolox#misc#path#relative(path, base)$/;"	f	language:Vim
+xolox#misc#path#split	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^function! xolox#misc#path#split(path)$/;"	f	language:Vim
+xolox#misc#path#tempdir	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^function! xolox#misc#path#tempdir()$/;"	f	language:Vim
+xolox#misc#path#which	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/path.vim	/^function! xolox#misc#path#which(...)$/;"	f	language:Vim
+xolox#misc#str#trim	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/str.vim	/^function! xolox#misc#str#trim(s)$/;"	f	language:Vim
+xolox#misc#timer#format_timespan	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/timer.vim	/^function! xolox#misc#timer#format_timespan(ts)$/;"	f	language:Vim
+xolox#misc#timer#start	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/timer.vim	/^function! xolox#misc#timer#start()$/;"	f	language:Vim
+xolox#misc#timer#stop	/Users/tanjapislar/.vim/bundle/vim-easytags/autoload/xolox/misc/timer.vim	/^function! xolox#misc#timer#stop(...)$/;"	f	language:Vim
+yS	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^  nmap      yS   <Plug>YSurround$/;"	m	language:Vim
+ys	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^  nmap      ys   <Plug>Ysurround$/;"	m	language:Vim
+ySS	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^  nmap      ySS  <Plug>YSsurround$/;"	m	language:Vim
+yss	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^  nmap      yss  <Plug>Yssurround$/;"	m	language:Vim
+ySs	/Users/tanjapislar/.vim/bundle/tpope-vim-surround/plugin/surround.vim	/^  nmap      ySs  <Plug>YSsurround$/;"	m	language:Vim
+[<Space>	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nmap [<Space> <Plug>unimpairedBlankUp$/;"	m	language:Vim
+[e	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nmap [e <Plug>unimpairedMoveUp$/;"	m	language:Vim
+[o	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nmap [o <Plug>unimpairedOPrevious$/;"	m	language:Vim
+]<Space>	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nmap ]<Space> <Plug>unimpairedBlankDown$/;"	m	language:Vim
+]e	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nmap ]e <Plug>unimpairedMoveDown$/;"	m	language:Vim
+]o	/Users/tanjapislar/.vim/bundle/vim-unimpaired/plugin/unimpaired.vim	/^nmap ]o <Plug>unimpairedONext$/;"	m	language:Vim
+_easytags_makecmd	/Users/tanjapislar/.vim/bundle/vim-easytags/misc/easytags/highlight.py	/^def _easytags_makecmd(syntaxgroup, prefix, suffix, patterns, ignoresyntax):$/;"	f	language:Python

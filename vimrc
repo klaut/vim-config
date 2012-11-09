@@ -1,3 +1,5 @@
+:let g:easytags_file = '~/.vim/tags'
+
 color desert
 " Example Vim configuration.
 " Copy or symlink to ~/.vimrc or ~/_vimrc.
