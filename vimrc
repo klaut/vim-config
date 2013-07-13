@@ -1,6 +1,6 @@
 :let g:easytags_file = '~/.vim/tags'
 
-color desert
+" color desert
 " Example Vim configuration.
 " Copy or symlink to ~/.vimrc or ~/_vimrc.
 
@@ -15,7 +15,7 @@ runtime macros/matchit.vim        " Load the matchit plugin.
 
 set showcmd                       " Display incomplete commands.
 set showmode                      " Display the mode you're in.
-
+set cmdheight=2                   " set command line hegith to 2 lines
 set backspace=indent,eol,start    " Intuitive backspacing.
 
 set hidden                        " Handle multiple buffers better.
@@ -31,6 +31,9 @@ set ruler                         " Show cursor position.
 
 set incsearch                     " Highlight matches as you type.
 set hlsearch                      " Highlight matches.
+set cursorline                    " highlight line of the cursor 
+
+set showtabline=2                 " always show tab bar
 
 set wrap                          " Turn on line wrapping.
 set scrolloff=3                   " Show 3 lines of context around the cursor.
@@ -41,19 +44,27 @@ set visualbell                    " No beeping.
 
 set nobackup                      " Don't make a backup before overwriting a file.
 set nowritebackup                 " And again.
-set directory=$HOME/.vim/tmp//,.  " Keep swap files in one location
+set directory=$HOME/.vim/tmp/  " Keep swap files in one location
 
 " UNCOMMENT TO USE
 set tabstop=2                    " Global tab width.
 set shiftwidth=2                 " And again, related.
+set softtabstop=2
 set expandtab                    " Use spaces instead of tabs
 
 set laststatus=2                  " Show the status line all the time
 " Useful status information at bottom of screen
 set statusline=[%n]\ %<%.99f\ %h%w%m%r%y\ %{fugitive#statusline()}%{exists('*CapsLockStatusline')?CapsLockStatusline():''}%=%-16(\ %l,%c-%v\ %)%P
-
+" set foldlevel=99
+set t_Co=256 " 256 colors
+set background=light
+color solarized
 " Or use vividchalk
 "colorscheme topfunky-light
+
+" remap default leard \ to ,
+nnoremap ,, ,
+let mapleader = ","
 
 " Tab mappings.
 map <leader>tt :tabnew<cr>
@@ -66,15 +77,32 @@ map <leader>tf :tabfirst<cr>
 map <leader>tl :tablast<cr>
 map <leader>tm :tabmove
 
-" Uncomment to use Jamis Buck's file opening plugin
-"map <Leader>f :FuzzyFinderTextMate<Enter>
+" Command-T mappings
+" Open files with <leader>f
+map <leader>f :CommandTFlush<cr>\|:CommandT<cr>
+" Open files, limited to the directory of the current file, with <leader>gf
+" This requires the %% mapping found below.
+map <leader>gf :CommandTFlush<cr>\|:CommandT %%<cr>
+" Rails specific Command-T
+map <leader>gv :CommandTFlush<cr>\|:CommandT app/views<cr>
+map <leader>gc :CommandTFlush<cr>\|:CommandT app/controllers<cr>
+map <leader>gm :CommandTFlush<cr>\|:CommandT app/models<cr>
+map <leader>gh :CommandTFlush<cr>\|:CommandT app/helpers<cr>
+map <leader>gl :CommandTFlush<cr>\|:CommandT lib<cr>
+map <leader>gp :CommandTFlush<cr>\|:CommandT public<cr>
+map <leader>gs :CommandTFlush<cr>\|:CommandT public/stylesheets<cr>
+" other Rails specific key strokes
+map <leader>gr :topleft :split config/routes.rb<cr>
+map <leader>gg :topleft 100 :split Gemfile<cr>
 
-" Controversial...swap colon and semicolon for easier commands
-"nnoremap ; :
-"nnoremap : ;
-
-"vnoremap ; :
-"vnoremap : ;
+" make current window big, but leave others context
+set winwidth=114
+" We have to have a winheight bigger than we want to set winminheight. But if
+" we set winheight to be huge before winminheight, the winminheight set will
+" fail.
+set winheight=5
+set winminheight=5
+set winheight=999
 
 " Automatic fold settings for specific files. Uncomment to use.
  autocmd FileType ruby setlocal foldmethod=syntax
@@ -82,6 +110,14 @@ map <leader>tm :tabmove
 
 " For the MakeGreen plugin and Ruby RSpec. Uncomment to use.
 autocmd BufNewFile,BufRead *_spec.rb compiler rspec
+
+" Switch between the last two files
+nnoremap <leader><leader> <c-^>    
+" Edit or view files in same directory as current file
+cnoremap %% <C-R>=expand('%:h').'/'<cr>
+map <leader>e :edit %%
+map <leader>v :view %%
+
 
 
 
