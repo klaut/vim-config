@@ -46,6 +46,10 @@ set nobackup                      " Don't make a backup before overwriting a fil
 set nowritebackup                 " And again.
 set directory=$HOME/.vim/tmp/  " Keep swap files in one location
 
+set undodir=$HOME/.vim/undo       "many undos across vim sessions
+set undolevels=1000
+set undoreload=10000
+
 " UNCOMMENT TO USE
 set tabstop=2                    " Global tab width.
 set shiftwidth=2                 " And again, related.
@@ -95,6 +99,8 @@ map <leader>gs :CommandTFlush<cr>\|:CommandT public/stylesheets<cr>
 map <leader>gr :topleft :split config/routes.rb<cr>
 map <leader>gg :topleft 100 :split Gemfile<cr>
 
+" enable hardmode - disabling jklh and others
+nnoremap <leader>h <Esc>:call ToggleHardMode() <cr>
 " make current window big, but leave others context
 set winwidth=114
 " We have to have a winheight bigger than we want to set winminheight. But if
@@ -118,6 +124,10 @@ cnoremap %% <C-R>=expand('%:h').'/'<cr>
 map <leader>e :edit %%
 map <leader>v :view %%
 
-
+" stop using arrow keys
+noremap <Up> <NOP>
+noremap <Down> <NOP>
+noremap <Left> <NOP>
+noremap <Right> <NOP>
 
 
