@@ -6,7 +6,7 @@
 
 set nocompatible                  " Must come first because it changes other options.
 
-silent! call pathogen#runtime_append_all_bundles()
+silent! call pathogen#infect()
 
 syntax enable                     " Turn on syntax highlighting.
 filetype plugin indent on         " Turn on file type detection.
@@ -32,6 +32,7 @@ set ruler                         " Show cursor position.
 set incsearch                     " Highlight matches as you type.
 set hlsearch                      " Highlight matches.
 set cursorline                    " highlight line of the cursor 
+set cursorcolumn                  " highlight column of the cursor
 
 set showtabline=2                 " always show tab bar
 
